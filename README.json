@@ -1,0 +1,168 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "📃 Papers"
+    },
+    {
+      "description": "To refresh LLMs to align with the ever-changing world knowledge without retraining, we roughly categorize existing methods into Implicit and Explicit approaches. Implicit means the approaches seek to directly alter the knowledge stored in LLMs, such as parameters or weights, while Explicit means more often incorporating external resources to override internal knowledge, such as augmenting a search engine.\nPlease see our paper for more details.",
+      "items": [],
+      "title": "Methods Overview"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Knowledge Editing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Meta-learning"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Hypernetwork Editor"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Locate and Edit"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Other"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Continual Learning"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Continual Pre-training"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Continual Knowledge Editing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Memory-enhanced"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Retrieval-enhanced"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Internet-enhanced"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "💻 Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LangChain",
+          "description": "a framework for developing applications powered by language models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T02:31:03Z",
+            "owner": "langchain-ai",
+            "repo": "langchain",
+            "stars": 144119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EasyEdit",
+          "description": "an Easy-to-use Knowledge Editing Framework for LLMs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-14T12:47:07Z",
+            "owner": "zjunlp",
+            "repo": "EasyEdit",
+            "stars": 2897
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Avalanche",
+          "description": "an End-to-End Library for Continual Learning based on PyTorch.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-11T16:17:01Z",
+            "owner": "ContinualAI",
+            "repo": "avalanche",
+            "stars": 2083
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FastEdit",
+          "description": "injecting fresh and customized knowledge into large language models efficiently using one single command.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-13T03:52:25Z",
+            "owner": "hiyouga",
+            "repo": "FastEdit",
+            "stars": 1370
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyContinual",
+          "description": "an Easy and Extendible Framework for Continual Learning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-29T20:57:15Z",
+            "owner": "ZixuanKe",
+            "repo": "PyContinual",
+            "stars": 323
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "If our research helps you, please kindly cite our paper.",
+      "items": [],
+      "title": "🚩 Citation"
+    },
+    {
+      "description": "This field is evolving very fast, and we may miss important works. Please don't hesitate to share your work. Pull requests are always welcome if you spot anything wrong (e.g., broken links, typos, etc.) or share new papers! We thank all contributors for their valuable efforts.",
+      "items": [],
+      "title": "🎉 Acknowledgement & Contribution"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T03:56:00.830Z",
+    "original_repository": "hyintell/awesome-refreshing-llms",
+    "original_repository_sha": "96a148e9e10b6a99299675b22c68a8bfa702f328",
+    "enhanced_repository": "enhansome/enhansome-refreshing-llms",
+    "enhanced_repository_description": null,
+    "title": "Awesome-Refreshing-LLMs with stars"
+  }
+}
