@@ -81,10 +81,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T02:31:03Z",
+            "last_commit": "2026-08-14T02:16:57Z",
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 144140
+            "stars": 144229
           }
         },
         {
@@ -158,7 +158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T07:59:05.191Z",
+    "last_updated": "2026-08-14T07:55:33.774Z",
     "original_repository": "hyintell/awesome-refreshing-llms",
     "original_repository_sha": "96a148e9e10b6a99299675b22c68a8bfa702f328",
     "enhanced_repository": "enhansome/enhansome-refreshing-llms",
