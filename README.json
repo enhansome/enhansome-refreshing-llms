@@ -81,10 +81,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T04:07:22Z",
+            "last_commit": "2026-08-18T01:51:37Z",
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 144367
+            "stars": 144444
           }
         },
         {
@@ -98,7 +98,7 @@
             "last_commit": "2026-07-14T12:47:07Z",
             "owner": "zjunlp",
             "repo": "EasyEdit",
-            "stars": 2897
+            "stars": 2899
           }
         },
         {
@@ -112,7 +112,7 @@
             "last_commit": "2025-03-11T16:17:01Z",
             "owner": "ContinualAI",
             "repo": "avalanche",
-            "stars": 2083
+            "stars": 2084
           }
         },
         {
@@ -158,7 +158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T07:28:16.497Z",
+    "last_updated": "2026-08-18T07:11:06.180Z",
     "original_repository": "hyintell/awesome-refreshing-llms",
     "original_repository_sha": "96a148e9e10b6a99299675b22c68a8bfa702f328",
     "enhanced_repository": "enhansome/enhansome-refreshing-llms",
