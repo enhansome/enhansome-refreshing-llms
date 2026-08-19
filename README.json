@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 552661142,
                 "language": "Python",
-                "last_commit": "2026-08-19T00:14:32Z",
+                "last_commit": "2026-08-19T10:38:36Z",
                 "owner": "langchain-ai",
                 "repo": "langchain",
-                "stars": 144520
+                "stars": 144556
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-07-14T12:47:07Z",
                 "owner": "zjunlp",
                 "repo": "EasyEdit",
-                "stars": 2898
+                "stars": 2899
               }
             },
             {
@@ -90,8 +90,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T07:11:35.886Z",
+    "last_updated": "2026-08-19T12:50:18.827Z",
     "original_repository": "hyintell/awesome-refreshing-llms",
+    "original_repository_id": 702145514,
     "original_repository_sha": "96a148e9e10b6a99299675b22c68a8bfa702f328",
     "enhanced_repository": "enhansome/enhansome-refreshing-llms",
     "enhanced_repository_description": null,
