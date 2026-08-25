@@ -9,7 +9,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2020",
+                  "title": "editable",
                   "description": "ICLR Editable Neural Networks",
                   "children": [],
                   "repo_info": {
@@ -31,7 +31,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2023",
+                  "title": "REMEDI",
                   "description": "Arxiv Inspecting and Editing Knowledge Representations in Language Models",
                   "children": [],
                   "repo_info": {
@@ -46,7 +46,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023",
+                  "title": "knowledge_distillation",
                   "description": "Arxiv Propagating Knowledge Updates to LMs Through Distillation",
                   "children": [],
                   "repo_info": {
@@ -61,7 +61,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023",
+                  "title": "SLAG-Belief-Updating",
                   "description": "EACL Methods for Measuring, Updating, and Visualizing Factual Beliefs in Language Models",
                   "children": [],
                   "repo_info": {
@@ -76,7 +76,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2022",
+                  "title": "mend",
                   "description": "ICLR Fast Model Editing at Scale",
                   "children": [],
                   "repo_info": {
@@ -91,7 +91,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2021",
+                  "title": "KnowledgeEditor",
                   "description": "EMNLP Editing Factual Knowledge in Language Models",
                   "children": [],
                   "repo_info": {
@@ -113,7 +113,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2023",
+                  "title": "KLoB",
                   "description": "Arxiv KLoB: a Benchmark for Assessing Knowledge Locating Methods in Language Models",
                   "children": [],
                   "repo_info": {
@@ -128,7 +128,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023",
+                  "title": "memit_csk",
                   "description": "Arxiv Editing Commonsense Knowledge in GPT",
                   "children": [],
                   "repo_info": {
@@ -143,7 +143,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023",
+                  "title": "PMET",
                   "description": "Arxiv PMET: Precise Model Editing in a Transformer",
                   "children": [],
                   "repo_info": {
@@ -158,7 +158,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023",
+                  "title": "memit",
                   "description": "ICLR Mass-Editing Memory in a Transformer",
                   "children": [],
                   "repo_info": {
@@ -168,12 +168,12 @@
                     "last_commit": "2024-01-31T21:25:13Z",
                     "owner": "kmeng01",
                     "repo": "memit",
-                    "stars": 558
+                    "stars": 559
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "2022",
+                  "title": "knowledge-neurons",
                   "description": "ACL Knowledge Neurons in Pretrained Transformers",
                   "children": [],
                   "repo_info": {
@@ -188,7 +188,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2022",
+                  "title": "rome",
                   "description": "NeurIPS Fast Model Editing at Scale",
                   "children": [],
                   "repo_info": {
@@ -198,7 +198,7 @@
                     "last_commit": "2024-04-20T05:32:37Z",
                     "owner": "kmeng01",
                     "repo": "rome",
-                    "stars": 777
+                    "stars": 778
                   }
                 }
               ],
@@ -210,7 +210,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2023",
+                  "title": "RippleEdits",
                   "description": "Arxiv Evaluating the Ripple Effects of Knowledge Editing in Language Models",
                   "children": [],
                   "repo_info": {
@@ -239,7 +239,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2023",
+                  "title": "kilm",
                   "description": "Arxiv KILM: Knowledge Injection into Encoder-Decoder Language Models",
                   "children": [],
                   "repo_info": {
@@ -254,7 +254,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023",
+                  "title": "ModuleFormer",
                   "description": "Arxiv ModuleFormer: Modularity Emerges from Mixture-of-Experts",
                   "children": [],
                   "repo_info": {
@@ -269,7 +269,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023",
+                  "title": "ContinualLM",
                   "description": "ICLR Continual Pre-training of Language Models",
                   "children": [],
                   "repo_info": {
@@ -284,7 +284,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2022",
+                  "title": "ELLE",
                   "description": "ACL ELLE: Efficient Lifelong Pre-training for Emerging Data",
                   "children": [],
                   "repo_info": {
@@ -299,7 +299,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2022",
+                  "title": "T0_continual_learning",
                   "description": "EMNLP Fine-tuned Language Models are Continual Learners",
                   "children": [],
                   "repo_info": {
@@ -314,7 +314,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2022",
+                  "title": "CPT",
                   "description": "EMNLP Continual Training of Language Models for Few-Shot Learning",
                   "children": [],
                   "repo_info": {
@@ -329,7 +329,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2022",
+                  "title": "temporalwiki",
                   "description": "EMNLP TemporalWiki: A Lifelong Benchmark for Training and Evaluating Ever-Evolving Language Models",
                   "children": [],
                   "repo_info": {
@@ -344,7 +344,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2022",
+                  "title": "LoRA",
                   "description": "ICLR LoRA: Low-Rank Adaptation of Large Language Models",
                   "children": [],
                   "repo_info": {
@@ -354,12 +354,12 @@
                     "last_commit": "2024-12-17T03:55:52Z",
                     "owner": "microsoft",
                     "repo": "LoRA",
-                    "stars": 13764
+                    "stars": 13766
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "2022",
+                  "title": "continual-knowledge-learning",
                   "description": "ICLR Towards Continual Knowledge Learning of Language Models",
                   "children": [],
                   "repo_info": {
@@ -374,7 +374,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2022",
+                  "title": "demix",
                   "description": "NAACL DEMix Layers: Disentangling Domains for Modular Language Modeling",
                   "children": [],
                   "repo_info": {
@@ -389,7 +389,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2022",
+                  "title": "FactualityPrompt",
                   "description": "NeurIPS Factuality Enhanced Language Models for Open-Ended Text Generation",
                   "children": [],
                   "repo_info": {
@@ -404,7 +404,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2022",
+                  "title": "language",
                   "description": "TACL Time-Aware Language Models as Temporal Knowledge Bases",
                   "children": [],
                   "repo_info": {
@@ -419,7 +419,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2021",
+                  "title": "K-Adapter",
                   "description": "ACL K-Adapter: Infusing Knowledge into Pre-Trained Models with Adapters",
                   "children": [],
                   "repo_info": {
@@ -434,7 +434,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2020",
+                  "title": "RecAdam",
                   "description": "EMNLP Recall and Learn: Fine-tuning Deep Pretrained Language Models with Less Forgetting",
                   "children": [],
                   "repo_info": {
@@ -456,7 +456,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "2023",
+                  "title": "GRACE",
                   "description": "Arxiv Aging with GRACE: Lifelong Model Editing with Discrete Key-Value Adapters",
                   "children": [],
                   "repo_info": {
@@ -471,7 +471,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2023",
+                  "title": "Transformer-Patcher",
                   "description": "ICLR Transformer-Patcher: One Mistake Worth One Neuron",
                   "children": [],
                   "repo_info": {
@@ -486,7 +486,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "2022",
+                  "title": "CMR",
                   "description": "ACL On Continual Model Refinement in Out-of-Distribution Data Streams",
                   "children": [],
                   "repo_info": {
@@ -513,7 +513,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2023",
+              "title": "MQuAKE",
               "description": "Arxiv MQuAKE: Assessing Knowledge Editing in Language Models via Multi-Hop Questions",
               "children": [],
               "repo_info": {
@@ -528,7 +528,7 @@
             },
             {
               "node_type": "item",
-              "title": "2022",
+              "title": "kNN_prompt",
               "description": "EMNLP Nearest Neighbor Zero-Shot Inference",
               "children": [],
               "repo_info": {
@@ -543,7 +543,7 @@
             },
             {
               "node_type": "item",
-              "title": "2022",
+              "title": "memprompt",
               "description": "EMNLP Memory-assisted prompt editing to improve GPT-3 after deployment",
               "children": [],
               "repo_info": {
@@ -558,7 +558,7 @@
             },
             {
               "node_type": "item",
-              "title": "2022",
+              "title": "retomaton",
               "description": "ICML Neuro-Symbolic Language Modeling with Automaton-augmented Retrieval",
               "children": [],
               "repo_info": {
@@ -573,7 +573,7 @@
             },
             {
               "node_type": "item",
-              "title": "2022",
+              "title": "serac",
               "description": "ICML Memory-Based Model Editing at Scale",
               "children": [],
               "repo_info": {
@@ -588,7 +588,7 @@
             },
             {
               "node_type": "item",
-              "title": "2022",
+              "title": "interscript",
               "description": "NAACL Learning to repair: Repairing model output errors after deployment using a dynamic memory of feedback",
               "children": [],
               "repo_info": {
@@ -603,7 +603,7 @@
             },
             {
               "node_type": "item",
-              "title": "2021",
+              "title": "efficient-knnlm",
               "description": "EMNLP Efficient Nearest Neighbor Language Models",
               "children": [],
               "repo_info": {
@@ -618,7 +618,7 @@
             },
             {
               "node_type": "item",
-              "title": "2020",
+              "title": "knnlm",
               "description": "ICLR Generalization through Memorization: Nearest Neighbor Language Models",
               "children": [],
               "repo_info": {
@@ -640,7 +640,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2023",
+              "title": "Augmentation-Adapted-Retriever",
               "description": "ACL Augmentation-Adapted Retriever Improves Generalization of Language Models as Generic Plug-In",
               "children": [],
               "repo_info": {
@@ -655,7 +655,7 @@
             },
             {
               "node_type": "item",
-              "title": "2023",
+              "title": "adaptive-retrieval",
               "description": "ACL When Not to Trust Language Models: Investigating Effectiveness of Parametric and Non-Parametric Memories",
               "children": [],
               "repo_info": {
@@ -670,7 +670,7 @@
             },
             {
               "node_type": "item",
-              "title": "2023",
+              "title": "ircot",
               "description": "ACL Interleaving Retrieval with Chain-of-Thought Reasoning for Knowledge-Intensive Multi-Step Questions",
               "children": [],
               "repo_info": {
@@ -685,7 +685,7 @@
             },
             {
               "node_type": "item",
-              "title": "2023",
+              "title": "RARR",
               "description": "ACL RARR: Researching and Revising What Language Models Say, Using Language Models",
               "children": [],
               "repo_info": {
@@ -700,7 +700,7 @@
             },
             {
               "node_type": "item",
-              "title": "2023",
+              "title": "MultiTool-CoT",
               "description": "ACL MultiTool-CoT: GPT-3 Can Use Multiple External Tools with Chain of Thought Prompting",
               "children": [],
               "repo_info": {
@@ -715,7 +715,7 @@
             },
             {
               "node_type": "item",
-              "title": "2023",
+              "title": "IKE",
               "description": "Arxiv Can We Edit Factual Knowledge by In-Context Learning?",
               "children": [],
               "repo_info": {
@@ -730,7 +730,7 @@
             },
             {
               "node_type": "item",
-              "title": "2023",
+              "title": "self-ask",
               "description": "Arxiv Measuring and Narrowing the Compositionality Gap in Language Models",
               "children": [],
               "repo_info": {
@@ -745,7 +745,7 @@
             },
             {
               "node_type": "item",
-              "title": "2023",
+              "title": "language-programmes",
               "description": "Arxiv ART: Automatic multi-step reasoning and tool-use for large language models",
               "children": [],
               "repo_info": {
@@ -760,7 +760,7 @@
             },
             {
               "node_type": "item",
-              "title": "2023",
+              "title": "ChatCoT",
               "description": "Arxiv ChatCoT: Tool-Augmented Chain-of-Thought Reasoning on Chat-based Large Language Models",
               "children": [],
               "repo_info": {
@@ -775,7 +775,7 @@
             },
             {
               "node_type": "item",
-              "title": "2023",
+              "title": "LLM-Augmenter",
               "description": "Arxiv Check Your Facts and Try Again: Improving Large Language Models with External Knowledge and Automated Feedback",
               "children": [],
               "repo_info": {
@@ -790,7 +790,7 @@
             },
             {
               "node_type": "item",
-              "title": "2023",
+              "title": "ContextualSP",
               "description": "Arxiv Question Answering as Programming for Solving Time-Sensitive Questions",
               "children": [],
               "repo_info": {
@@ -805,7 +805,7 @@
             },
             {
               "node_type": "item",
-              "title": "2023",
+              "title": "FLARE",
               "description": "Arxiv Active Retrieval Augmented Generation",
               "children": [],
               "repo_info": {
@@ -815,27 +815,27 @@
                 "last_commit": "2023-11-20T08:25:17Z",
                 "owner": "jzbjyb",
                 "repo": "FLARE",
-                "stars": 669
+                "stars": 668
               }
             },
             {
               "node_type": "item",
-              "title": "2023",
+              "title": "dspy",
               "description": "Arxiv Demonstrate-Search-Predict: Composing retrieval and language models for knowledge-intensive NLP",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 587050620,
                 "language": "Python",
-                "last_commit": "2026-08-24T13:44:14Z",
+                "last_commit": "2026-08-24T15:54:23Z",
                 "owner": "stanfordnlp",
                 "repo": "dspy",
-                "stars": 37559
+                "stars": 37574
               }
             },
             {
               "node_type": "item",
-              "title": "2023",
+              "title": "ProphetNet",
               "description": "Arxiv CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing",
               "children": [],
               "repo_info": {
@@ -850,7 +850,7 @@
             },
             {
               "node_type": "item",
-              "title": "2023",
+              "title": "WikiChat",
               "description": "Arxiv WikiChat: A Few-Shot LLM-Based Chatbot Grounded with Wikipedia",
               "children": [],
               "repo_info": {
@@ -865,7 +865,7 @@
             },
             {
               "node_type": "item",
-              "title": "2023",
+              "title": "GPT3-Reliability",
               "description": "ICLR Prompting GPT-3 To Be Reliable",
               "children": [],
               "repo_info": {
@@ -880,7 +880,7 @@
             },
             {
               "node_type": "item",
-              "title": "2023",
+              "title": "DecomP",
               "description": "ICLR Decomposed Prompting: A Modular Approach for Solving Complex Tasks",
               "children": [],
               "repo_info": {
@@ -895,7 +895,7 @@
             },
             {
               "node_type": "item",
-              "title": "2023",
+              "title": "ReAct",
               "description": "ICLR ReAct: Synergizing Reasoning and Acting in Language Models",
               "children": [],
               "repo_info": {
@@ -910,7 +910,7 @@
             },
             {
               "node_type": "item",
-              "title": "2023",
+              "title": "in-context-ralm",
               "description": "TACL In-Context Retrieval-Augmented Language Models",
               "children": [],
               "repo_info": {
@@ -925,7 +925,7 @@
             },
             {
               "node_type": "item",
-              "title": "2022",
+              "title": "RR",
               "description": "Arxiv Rethinking with Retrieval: Faithful Large Language Model Inference",
               "children": [],
               "repo_info": {
@@ -947,7 +947,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2023",
+              "title": "llm-url",
               "description": "ACL Large Language Models are Built-in Autoregressive Search Engines",
               "children": [],
               "repo_info": {
@@ -962,7 +962,7 @@
             },
             {
               "node_type": "item",
-              "title": "2023",
+              "title": "RARR",
               "description": "ACL RARR: Researching and Revising What Language Models Say, Using Language Models",
               "children": [],
               "repo_info": {
@@ -977,7 +977,7 @@
             },
             {
               "node_type": "item",
-              "title": "2023",
+              "title": "self-ask",
               "description": "Arxiv Measuring and Narrowing the Compositionality Gap in Language Models",
               "children": [],
               "repo_info": {
@@ -992,7 +992,7 @@
             },
             {
               "node_type": "item",
-              "title": "2023",
+              "title": "language-programmes",
               "description": "Arxiv ART: Automatic multi-step reasoning and tool-use for large language models",
               "children": [],
               "repo_info": {
@@ -1007,7 +1007,7 @@
             },
             {
               "node_type": "item",
-              "title": "2023",
+              "title": "TaskMatrix",
               "description": "Arxiv TaskMatrix.AI: Completing Tasks by Connecting Foundation Models with Millions of APIs",
               "children": [],
               "repo_info": {
@@ -1022,7 +1022,7 @@
             },
             {
               "node_type": "item",
-              "title": "2023",
+              "title": "MM-REACT",
               "description": "Arxiv MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action",
               "children": [],
               "repo_info": {
@@ -1037,7 +1037,7 @@
             },
             {
               "node_type": "item",
-              "title": "2023",
+              "title": "FLARE",
               "description": "Arxiv Active Retrieval Augmented Generation",
               "children": [],
               "repo_info": {
@@ -1047,12 +1047,12 @@
                 "last_commit": "2023-11-20T08:25:17Z",
                 "owner": "jzbjyb",
                 "repo": "FLARE",
-                "stars": 669
+                "stars": 668
               }
             },
             {
               "node_type": "item",
-              "title": "2023",
+              "title": "chameleon-llm",
               "description": "Arxiv Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models",
               "children": [],
               "repo_info": {
@@ -1067,7 +1067,7 @@
             },
             {
               "node_type": "item",
-              "title": "2023",
+              "title": "ProphetNet",
               "description": "Arxiv CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing",
               "children": [],
               "repo_info": {
@@ -1082,7 +1082,7 @@
             },
             {
               "node_type": "item",
-              "title": "2023",
+              "title": "ReAct",
               "description": "ICLR ReAct: Synergizing Reasoning and Acting in Language Models",
               "children": [],
               "repo_info": {
@@ -1117,10 +1117,10 @@
                 "archived": false,
                 "id": 552661142,
                 "language": "Python",
-                "last_commit": "2026-08-24T14:31:31Z",
+                "last_commit": "2026-08-25T03:51:56Z",
                 "owner": "langchain-ai",
                 "repo": "langchain",
-                "stars": 144894
+                "stars": 144931
               }
             },
             {
@@ -1150,7 +1150,7 @@
                 "last_commit": "2025-03-11T16:17:01Z",
                 "owner": "ContinualAI",
                 "repo": "avalanche",
-                "stars": 2086
+                "stars": 2087
               }
             },
             {
@@ -1193,7 +1193,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:36:03.128Z",
+    "last_updated": "2026-08-25T06:28:55.325Z",
     "original_repository": "hyintell/awesome-refreshing-llms",
     "original_repository_id": 702145514,
     "original_repository_sha": "96a148e9e10b6a99299675b22c68a8bfa702f328",
