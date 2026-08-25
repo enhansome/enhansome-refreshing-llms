@@ -830,7 +830,7 @@
                 "last_commit": "2026-08-24T15:54:23Z",
                 "owner": "stanfordnlp",
                 "repo": "dspy",
-                "stars": 37574
+                "stars": 37575
               }
             },
             {
@@ -1120,7 +1120,7 @@
                 "last_commit": "2026-08-25T03:51:56Z",
                 "owner": "langchain-ai",
                 "repo": "langchain",
-                "stars": 144931
+                "stars": 144935
               }
             },
             {
@@ -1193,7 +1193,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:28:55.325Z",
+    "last_updated": "2026-08-25T07:14:33.444Z",
     "original_repository": "hyintell/awesome-refreshing-llms",
     "original_repository_id": 702145514,
     "original_repository_sha": "96a148e9e10b6a99299675b22c68a8bfa702f328",
