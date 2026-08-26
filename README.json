@@ -354,7 +354,7 @@
                     "last_commit": "2024-12-17T03:55:52Z",
                     "owner": "microsoft",
                     "repo": "LoRA",
-                    "stars": 13766
+                    "stars": 13768
                   }
                 },
                 {
@@ -827,10 +827,10 @@
                 "archived": false,
                 "id": 587050620,
                 "language": "Python",
-                "last_commit": "2026-08-24T15:54:23Z",
+                "last_commit": "2026-08-26T00:14:45Z",
                 "owner": "stanfordnlp",
                 "repo": "dspy",
-                "stars": 37575
+                "stars": 37601
               }
             },
             {
@@ -905,7 +905,7 @@
                 "last_commit": "2024-02-06T02:34:32Z",
                 "owner": "ysymyth",
                 "repo": "ReAct",
-                "stars": 4120
+                "stars": 4122
               }
             },
             {
@@ -1017,7 +1017,7 @@
                 "last_commit": "2024-01-06T02:41:20Z",
                 "owner": "chenfei-wu",
                 "repo": "TaskMatrix",
-                "stars": 34006
+                "stars": 34005
               }
             },
             {
@@ -1092,7 +1092,7 @@
                 "last_commit": "2024-02-06T02:34:32Z",
                 "owner": "ysymyth",
                 "repo": "ReAct",
-                "stars": 4120
+                "stars": 4122
               }
             }
           ],
@@ -1117,10 +1117,10 @@
                 "archived": false,
                 "id": 552661142,
                 "language": "Python",
-                "last_commit": "2026-08-25T03:51:56Z",
+                "last_commit": "2026-08-26T04:41:35Z",
                 "owner": "langchain-ai",
                 "repo": "langchain",
-                "stars": 144935
+                "stars": 145016
               }
             },
             {
@@ -1135,7 +1135,7 @@
                 "last_commit": "2026-07-14T12:47:07Z",
                 "owner": "zjunlp",
                 "repo": "EasyEdit",
-                "stars": 2902
+                "stars": 2906
               }
             },
             {
@@ -1165,7 +1165,7 @@
                 "last_commit": "2023-08-13T03:52:25Z",
                 "owner": "hiyouga",
                 "repo": "FastEdit",
-                "stars": 1367
+                "stars": 1366
               }
             },
             {
@@ -1193,7 +1193,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T07:14:33.444Z",
+    "last_updated": "2026-08-26T07:14:24.748Z",
     "original_repository": "hyintell/awesome-refreshing-llms",
     "original_repository_id": 702145514,
     "original_repository_sha": "96a148e9e10b6a99299675b22c68a8bfa702f328",
