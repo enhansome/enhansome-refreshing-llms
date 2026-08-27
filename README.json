@@ -827,10 +827,10 @@
                 "archived": false,
                 "id": 587050620,
                 "language": "Python",
-                "last_commit": "2026-08-27T04:48:29Z",
+                "last_commit": "2026-08-27T17:42:06Z",
                 "owner": "stanfordnlp",
                 "repo": "dspy",
-                "stars": 37618
+                "stars": 37622
               }
             },
             {
@@ -905,7 +905,7 @@
                 "last_commit": "2024-02-06T02:34:32Z",
                 "owner": "ysymyth",
                 "repo": "ReAct",
-                "stars": 4126
+                "stars": 4127
               }
             },
             {
@@ -1092,7 +1092,7 @@
                 "last_commit": "2024-02-06T02:34:32Z",
                 "owner": "ysymyth",
                 "repo": "ReAct",
-                "stars": 4126
+                "stars": 4127
               }
             }
           ],
@@ -1117,10 +1117,10 @@
                 "archived": false,
                 "id": 552661142,
                 "language": "Python",
-                "last_commit": "2026-08-27T11:26:43Z",
+                "last_commit": "2026-08-27T17:40:38Z",
                 "owner": "langchain-ai",
                 "repo": "langchain",
-                "stars": 145114
+                "stars": 145136
               }
             },
             {
@@ -1193,7 +1193,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:59:04.448Z",
+    "last_updated": "2026-08-27T17:42:11.118Z",
     "original_repository_info": {
       "archived": false,
       "id": 702145514,
