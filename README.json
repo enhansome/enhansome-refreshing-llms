@@ -20,7 +20,8 @@
                     "owner": "editable-ICLR2020",
                     "repo": "editable",
                     "stars": 32
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:50:58.381Z"
                 }
               ],
               "description": null,
@@ -42,7 +43,8 @@
                     "owner": "evandez",
                     "repo": "REMEDI",
                     "stars": 120
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:50:58.381Z"
                 },
                 {
                   "node_type": "item",
@@ -57,7 +59,8 @@
                     "owner": "shankarp8",
                     "repo": "knowledge_distillation",
                     "stars": 27
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:50:58.381Z"
                 },
                 {
                   "node_type": "item",
@@ -72,7 +75,8 @@
                     "owner": "peterbhase",
                     "repo": "SLAG-Belief-Updating",
                     "stars": 28
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:50:58.381Z"
                 },
                 {
                   "node_type": "item",
@@ -87,7 +91,8 @@
                     "owner": "eric-mitchell",
                     "repo": "mend",
                     "stars": 260
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:50:58.381Z"
                 },
                 {
                   "node_type": "item",
@@ -102,7 +107,8 @@
                     "owner": "nicola-decao",
                     "repo": "KnowledgeEditor",
                     "stars": 142
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:50:58.381Z"
                 }
               ],
               "description": null,
@@ -124,7 +130,8 @@
                     "owner": "juyiming",
                     "repo": "KLoB",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:50:58.381Z"
                 },
                 {
                   "node_type": "item",
@@ -139,7 +146,8 @@
                     "owner": "anshitag",
                     "repo": "memit_csk",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:50:58.381Z"
                 },
                 {
                   "node_type": "item",
@@ -154,7 +162,8 @@
                     "owner": "xpq-tech",
                     "repo": "PMET",
                     "stars": 58
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:50:58.381Z"
                 },
                 {
                   "node_type": "item",
@@ -169,7 +178,8 @@
                     "owner": "kmeng01",
                     "repo": "memit",
                     "stars": 559
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:50:58.381Z"
                 },
                 {
                   "node_type": "item",
@@ -184,7 +194,8 @@
                     "owner": "Hunter-DDM",
                     "repo": "knowledge-neurons",
                     "stars": 177
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:50:58.381Z"
                 },
                 {
                   "node_type": "item",
@@ -199,7 +210,8 @@
                     "owner": "kmeng01",
                     "repo": "rome",
                     "stars": 778
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:50:58.381Z"
                 }
               ],
               "description": null,
@@ -221,7 +233,8 @@
                     "owner": "edenbiran",
                     "repo": "RippleEdits",
                     "stars": 57
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:50:58.381Z"
                 }
               ],
               "description": null,
@@ -250,7 +263,8 @@
                     "owner": "alexa",
                     "repo": "kilm",
                     "stars": 23
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:50:58.381Z"
                 },
                 {
                   "node_type": "item",
@@ -265,7 +279,8 @@
                     "owner": "IBM",
                     "repo": "ModuleFormer",
                     "stars": 225
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:50:58.381Z"
                 },
                 {
                   "node_type": "item",
@@ -280,7 +295,8 @@
                     "owner": "UIC-Liu-Lab",
                     "repo": "ContinualLM",
                     "stars": 294
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:50:58.381Z"
                 },
                 {
                   "node_type": "item",
@@ -295,7 +311,8 @@
                     "owner": "thunlp",
                     "repo": "ELLE",
                     "stars": 31
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:50:58.381Z"
                 },
                 {
                   "node_type": "item",
@@ -310,7 +327,8 @@
                     "owner": "ThomasScialom",
                     "repo": "T0_continual_learning",
                     "stars": 33
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:50:58.381Z"
                 },
                 {
                   "node_type": "item",
@@ -325,7 +343,8 @@
                     "owner": "UIC-Liu-Lab",
                     "repo": "CPT",
                     "stars": 44
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:50:58.381Z"
                 },
                 {
                   "node_type": "item",
@@ -340,7 +359,8 @@
                     "owner": "joeljang",
                     "repo": "temporalwiki",
                     "stars": 74
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:50:58.381Z"
                 },
                 {
                   "node_type": "item",
@@ -354,8 +374,9 @@
                     "last_commit": "2024-12-17T03:55:52Z",
                     "owner": "microsoft",
                     "repo": "LoRA",
-                    "stars": 13768
-                  }
+                    "stars": 13769
+                  },
+                  "first_seen": "2026-08-28T18:50:58.381Z"
                 },
                 {
                   "node_type": "item",
@@ -370,7 +391,8 @@
                     "owner": "joeljang",
                     "repo": "continual-knowledge-learning",
                     "stars": 91
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:50:58.381Z"
                 },
                 {
                   "node_type": "item",
@@ -385,7 +407,8 @@
                     "owner": "kernelmachine",
                     "repo": "demix",
                     "stars": 54
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:50:58.381Z"
                 },
                 {
                   "node_type": "item",
@@ -400,7 +423,8 @@
                     "owner": "nayeon7lee",
                     "repo": "FactualityPrompt",
                     "stars": 90
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:50:58.381Z"
                 },
                 {
                   "node_type": "item",
@@ -415,7 +439,8 @@
                     "owner": "google-research",
                     "repo": "language",
                     "stars": 1795
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:50:58.381Z"
                 },
                 {
                   "node_type": "item",
@@ -430,7 +455,8 @@
                     "owner": "microsoft",
                     "repo": "K-Adapter",
                     "stars": 165
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:50:58.381Z"
                 },
                 {
                   "node_type": "item",
@@ -445,7 +471,8 @@
                     "owner": "Sanyuan-Chen",
                     "repo": "RecAdam",
                     "stars": 118
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:50:58.381Z"
                 }
               ],
               "description": null,
@@ -467,7 +494,8 @@
                     "owner": "Thartvigsen",
                     "repo": "GRACE",
                     "stars": 85
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:50:58.381Z"
                 },
                 {
                   "node_type": "item",
@@ -482,7 +510,8 @@
                     "owner": "ZeroYuHuang",
                     "repo": "Transformer-Patcher",
                     "stars": 34
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:50:58.381Z"
                 },
                 {
                   "node_type": "item",
@@ -497,7 +526,8 @@
                     "owner": "facebookresearch",
                     "repo": "CMR",
                     "stars": 19
-                  }
+                  },
+                  "first_seen": "2026-08-28T18:50:58.381Z"
                 }
               ],
               "description": null,
@@ -524,7 +554,8 @@
                 "owner": "princeton-nlp",
                 "repo": "MQuAKE",
                 "stars": 125
-              }
+              },
+              "first_seen": "2026-08-28T18:50:58.381Z"
             },
             {
               "node_type": "item",
@@ -539,7 +570,8 @@
                 "owner": "swj0419",
                 "repo": "kNN_prompt",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T18:50:58.381Z"
             },
             {
               "node_type": "item",
@@ -554,7 +586,8 @@
                 "owner": "madaan",
                 "repo": "memprompt",
                 "stars": 331
-              }
+              },
+              "first_seen": "2026-08-28T18:50:58.381Z"
             },
             {
               "node_type": "item",
@@ -569,7 +602,8 @@
                 "owner": "neulab",
                 "repo": "retomaton",
                 "stars": 77
-              }
+              },
+              "first_seen": "2026-08-28T18:50:58.381Z"
             },
             {
               "node_type": "item",
@@ -584,7 +618,8 @@
                 "owner": "eric-mitchell",
                 "repo": "serac",
                 "stars": 72
-              }
+              },
+              "first_seen": "2026-08-28T18:50:58.381Z"
             },
             {
               "node_type": "item",
@@ -599,7 +634,8 @@
                 "owner": "allenai",
                 "repo": "interscript",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T18:50:58.381Z"
             },
             {
               "node_type": "item",
@@ -614,7 +650,8 @@
                 "owner": "jxhe",
                 "repo": "efficient-knnlm",
                 "stars": 75
-              }
+              },
+              "first_seen": "2026-08-28T18:50:58.381Z"
             },
             {
               "node_type": "item",
@@ -629,7 +666,8 @@
                 "owner": "urvashik",
                 "repo": "knnlm",
                 "stars": 332
-              }
+              },
+              "first_seen": "2026-08-28T18:50:58.381Z"
             }
           ],
           "description": "Pairing a static LLM with a growing non-parametric memory enables it to capture information beyond its memorized knowledge during inference. The external memory can store a recent corpus or feedback that contains new information to guide the model generation.",
@@ -651,7 +689,8 @@
                 "owner": "OpenMatch",
                 "repo": "Augmentation-Adapted-Retriever",
                 "stars": 60
-              }
+              },
+              "first_seen": "2026-08-28T18:50:58.381Z"
             },
             {
               "node_type": "item",
@@ -666,7 +705,8 @@
                 "owner": "AlexTMallen",
                 "repo": "adaptive-retrieval",
                 "stars": 193
-              }
+              },
+              "first_seen": "2026-08-28T18:50:58.381Z"
             },
             {
               "node_type": "item",
@@ -681,7 +721,8 @@
                 "owner": "StonyBrookNLP",
                 "repo": "ircot",
                 "stars": 276
-              }
+              },
+              "first_seen": "2026-08-28T18:50:58.381Z"
             },
             {
               "node_type": "item",
@@ -696,7 +737,8 @@
                 "owner": "anthonywchen",
                 "repo": "RARR",
                 "stars": 54
-              }
+              },
+              "first_seen": "2026-08-28T18:50:58.381Z"
             },
             {
               "node_type": "item",
@@ -711,7 +753,8 @@
                 "owner": "tatsuropfgt",
                 "repo": "MultiTool-CoT",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T18:50:58.381Z"
             },
             {
               "node_type": "item",
@@ -726,7 +769,8 @@
                 "owner": "Zce1112zslx",
                 "repo": "IKE",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T18:50:58.381Z"
             },
             {
               "node_type": "item",
@@ -741,7 +785,8 @@
                 "owner": "ofirpress",
                 "repo": "self-ask",
                 "stars": 324
-              }
+              },
+              "first_seen": "2026-08-28T18:50:58.381Z"
             },
             {
               "node_type": "item",
@@ -756,7 +801,8 @@
                 "owner": "bhargaviparanjape",
                 "repo": "language-programmes",
                 "stars": 173
-              }
+              },
+              "first_seen": "2026-08-28T18:50:58.381Z"
             },
             {
               "node_type": "item",
@@ -771,7 +817,8 @@
                 "owner": "RUCAIBox",
                 "repo": "ChatCoT",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-28T18:50:58.381Z"
             },
             {
               "node_type": "item",
@@ -786,7 +833,8 @@
                 "owner": "pengbaolin",
                 "repo": "LLM-Augmenter",
                 "stars": 444
-              }
+              },
+              "first_seen": "2026-08-28T18:50:58.381Z"
             },
             {
               "node_type": "item",
@@ -801,7 +849,8 @@
                 "owner": "microsoft",
                 "repo": "ContextualSP",
                 "stars": 386
-              }
+              },
+              "first_seen": "2026-08-28T18:50:58.381Z"
             },
             {
               "node_type": "item",
@@ -816,7 +865,8 @@
                 "owner": "jzbjyb",
                 "repo": "FLARE",
                 "stars": 668
-              }
+              },
+              "first_seen": "2026-08-28T18:50:58.381Z"
             },
             {
               "node_type": "item",
@@ -827,11 +877,12 @@
                 "archived": false,
                 "id": 587050620,
                 "language": "Python",
-                "last_commit": "2026-08-27T17:42:06Z",
+                "last_commit": "2026-08-27T23:08:31Z",
                 "owner": "stanfordnlp",
                 "repo": "dspy",
-                "stars": 37622
-              }
+                "stars": 37635
+              },
+              "first_seen": "2026-08-28T18:50:58.381Z"
             },
             {
               "node_type": "item",
@@ -846,7 +897,8 @@
                 "owner": "microsoft",
                 "repo": "ProphetNet",
                 "stars": 745
-              }
+              },
+              "first_seen": "2026-08-28T18:50:58.381Z"
             },
             {
               "node_type": "item",
@@ -861,7 +913,8 @@
                 "owner": "stanford-oval",
                 "repo": "WikiChat",
                 "stars": 1615
-              }
+              },
+              "first_seen": "2026-08-28T18:50:58.381Z"
             },
             {
               "node_type": "item",
@@ -876,7 +929,8 @@
                 "owner": "NoviScl",
                 "repo": "GPT3-Reliability",
                 "stars": 80
-              }
+              },
+              "first_seen": "2026-08-28T18:50:58.381Z"
             },
             {
               "node_type": "item",
@@ -891,7 +945,8 @@
                 "owner": "allenai",
                 "repo": "DecomP",
                 "stars": 101
-              }
+              },
+              "first_seen": "2026-08-28T18:50:58.381Z"
             },
             {
               "node_type": "item",
@@ -905,8 +960,9 @@
                 "last_commit": "2024-02-06T02:34:32Z",
                 "owner": "ysymyth",
                 "repo": "ReAct",
-                "stars": 4127
-              }
+                "stars": 4130
+              },
+              "first_seen": "2026-08-28T18:50:58.381Z"
             },
             {
               "node_type": "item",
@@ -921,7 +977,8 @@
                 "owner": "AI21Labs",
                 "repo": "in-context-ralm",
                 "stars": 295
-              }
+              },
+              "first_seen": "2026-08-28T18:50:58.381Z"
             },
             {
               "node_type": "item",
@@ -936,7 +993,8 @@
                 "owner": "HornHehhf",
                 "repo": "RR",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T18:50:58.381Z"
             }
           ],
           "description": "Leveraging an off-the-shelf retriever and the in-context learning ability of LLMs, this line of work designs better retrieval strategies to incorporate world knowledge into a fixed LLM through prompting, which can be divided into single-stage and multi-stage.",
@@ -958,7 +1016,8 @@
                 "owner": "Ziems",
                 "repo": "llm-url",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-28T18:50:58.381Z"
             },
             {
               "node_type": "item",
@@ -973,7 +1032,8 @@
                 "owner": "anthonywchen",
                 "repo": "RARR",
                 "stars": 54
-              }
+              },
+              "first_seen": "2026-08-28T18:50:58.381Z"
             },
             {
               "node_type": "item",
@@ -988,7 +1048,8 @@
                 "owner": "ofirpress",
                 "repo": "self-ask",
                 "stars": 324
-              }
+              },
+              "first_seen": "2026-08-28T18:50:58.381Z"
             },
             {
               "node_type": "item",
@@ -1003,7 +1064,8 @@
                 "owner": "bhargaviparanjape",
                 "repo": "language-programmes",
                 "stars": 173
-              }
+              },
+              "first_seen": "2026-08-28T18:50:58.381Z"
             },
             {
               "node_type": "item",
@@ -1017,8 +1079,9 @@
                 "last_commit": "2024-01-06T02:41:20Z",
                 "owner": "chenfei-wu",
                 "repo": "TaskMatrix",
-                "stars": 34001
-              }
+                "stars": 34000
+              },
+              "first_seen": "2026-08-28T18:50:58.381Z"
             },
             {
               "node_type": "item",
@@ -1033,7 +1096,8 @@
                 "owner": "microsoft",
                 "repo": "MM-REACT",
                 "stars": 966
-              }
+              },
+              "first_seen": "2026-08-28T18:50:58.381Z"
             },
             {
               "node_type": "item",
@@ -1048,7 +1112,8 @@
                 "owner": "jzbjyb",
                 "repo": "FLARE",
                 "stars": 668
-              }
+              },
+              "first_seen": "2026-08-28T18:50:58.381Z"
             },
             {
               "node_type": "item",
@@ -1063,7 +1128,8 @@
                 "owner": "lupantech",
                 "repo": "chameleon-llm",
                 "stars": 1140
-              }
+              },
+              "first_seen": "2026-08-28T18:50:58.381Z"
             },
             {
               "node_type": "item",
@@ -1078,7 +1144,8 @@
                 "owner": "microsoft",
                 "repo": "ProphetNet",
                 "stars": 745
-              }
+              },
+              "first_seen": "2026-08-28T18:50:58.381Z"
             },
             {
               "node_type": "item",
@@ -1092,8 +1159,9 @@
                 "last_commit": "2024-02-06T02:34:32Z",
                 "owner": "ysymyth",
                 "repo": "ReAct",
-                "stars": 4127
-              }
+                "stars": 4130
+              },
+              "first_seen": "2026-08-28T18:50:58.381Z"
             }
           ],
           "description": "A recent trend uses the whole web as the knowledge source and equips LLMs with the Internet to support real-time information seeking.",
@@ -1117,11 +1185,12 @@
                 "archived": false,
                 "id": 552661142,
                 "language": "Python",
-                "last_commit": "2026-08-27T17:40:38Z",
+                "last_commit": "2026-08-28T16:19:21Z",
                 "owner": "langchain-ai",
                 "repo": "langchain",
-                "stars": 145136
-              }
+                "stars": 145200
+              },
+              "first_seen": "2026-08-28T18:50:58.381Z"
             },
             {
               "node_type": "item",
@@ -1135,8 +1204,9 @@
                 "last_commit": "2026-07-14T12:47:07Z",
                 "owner": "zjunlp",
                 "repo": "EasyEdit",
-                "stars": 2908
-              }
+                "stars": 2909
+              },
+              "first_seen": "2026-08-28T18:50:58.381Z"
             },
             {
               "node_type": "item",
@@ -1151,7 +1221,8 @@
                 "owner": "ContinualAI",
                 "repo": "avalanche",
                 "stars": 2088
-              }
+              },
+              "first_seen": "2026-08-28T18:50:58.381Z"
             },
             {
               "node_type": "item",
@@ -1166,7 +1237,8 @@
                 "owner": "hiyouga",
                 "repo": "FastEdit",
                 "stars": 1366
-              }
+              },
+              "first_seen": "2026-08-28T18:50:58.381Z"
             },
             {
               "node_type": "item",
@@ -1181,7 +1253,8 @@
                 "owner": "ZixuanKe",
                 "repo": "PyContinual",
                 "stars": 323
-              }
+              },
+              "first_seen": "2026-08-28T18:50:58.381Z"
             }
           ],
           "description": null,
@@ -1193,7 +1266,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T17:42:11.118Z",
+    "last_updated": "2026-08-28T18:50:58.381Z",
     "original_repository_info": {
       "archived": false,
       "id": 702145514,
