@@ -14,12 +14,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 210462942,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2019-09-24T17:09:02Z",
+                    "open_issues": 0,
                     "owner": "editable-ICLR2020",
                     "repo": "editable",
-                    "stars": 32
+                    "stars": 32,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.381Z"
                 }
@@ -37,12 +42,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Inspecting and Editing Knowledge Representations in Language Models",
+                    "homepage": null,
                     "id": 446639574,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-07-24T19:42:21Z",
+                    "open_issues": 0,
                     "owner": "evandez",
                     "repo": "REMEDI",
-                    "stars": 120
+                    "stars": 120,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.381Z"
                 },
@@ -53,12 +63,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Repository for \"Propagating Knowledge Updates to LMs Through Distillation\" (NeurIPS 2023). ",
+                    "homepage": null,
                     "id": 653324491,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-08-25T21:23:16Z",
+                    "open_issues": 0,
                     "owner": "shankarp8",
                     "repo": "knowledge_distillation",
-                    "stars": 27
+                    "stars": 27,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.381Z"
                 },
@@ -69,12 +84,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for paper \"Do Language Models Have Beliefs? Methods for Detecting, Updating, and Visualizing Model Beliefs\"",
+                    "homepage": null,
                     "id": 430465862,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-05-02T17:28:22Z",
+                    "open_issues": 0,
                     "owner": "peterbhase",
                     "repo": "SLAG-Belief-Updating",
-                    "stars": 28
+                    "stars": 28,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.381Z"
                 },
@@ -85,12 +105,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "MEND: Fast Model Editing at Scale",
+                    "homepage": null,
                     "id": 419106066,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-08-30T14:12:13Z",
+                    "open_issues": 5,
                     "owner": "eric-mitchell",
                     "repo": "mend",
-                    "stars": 260
+                    "stars": 260,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.381Z"
                 },
@@ -101,12 +126,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for Editing Factual Knowledge in Language Models",
+                    "homepage": "https://arxiv.org/abs/2104.08164",
                     "id": 357910441,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-01-28T13:47:15Z",
+                    "open_issues": 5,
                     "owner": "nicola-decao",
                     "repo": "KnowledgeEditor",
-                    "stars": 142
+                    "stars": 142,
+                    "topics": [
+                      "natural-language-processing",
+                      "nlp",
+                      "pytorch",
+                      "transformers"
+                    ]
                   },
                   "first_seen": "2026-08-28T18:50:58.381Z"
                 }
@@ -124,12 +159,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Data for KLoB: a Benchmark for Assessing Knowledge Locating Methods in Language Models.",
+                    "homepage": null,
                     "id": 697197041,
                     "language": null,
+                    "license": null,
                     "last_commit": "2023-09-27T08:53:12Z",
+                    "open_issues": 0,
                     "owner": "juyiming",
                     "repo": "KLoB",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.381Z"
                 },
@@ -140,12 +180,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Source repository for Editing Common Sense in Transformers (EMNLP 2023)",
+                    "homepage": "https://arxiv.org/abs/2305.14956",
                     "id": 644764896,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-12-02T19:12:10Z",
+                    "open_issues": 0,
                     "owner": "anshitag",
                     "repo": "memit_csk",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": [
+                      "commonsense-knowledge",
+                      "commonsense-reasoning",
+                      "emnlp2023",
+                      "natural-language-processing",
+                      "transformer"
+                    ]
                   },
                   "first_seen": "2026-08-28T18:50:58.381Z"
                 },
@@ -156,12 +207,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This is a repository for \"PMET: Precise Model Editing in a Transformer\"",
+                    "homepage": null,
                     "id": 674884176,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-09-28T03:30:59Z",
+                    "open_issues": 0,
                     "owner": "xpq-tech",
                     "repo": "PMET",
-                    "stars": 58
+                    "stars": 58,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.381Z"
                 },
@@ -172,12 +228,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Mass-editing thousands of facts into a transformer memory (ICLR 2023)",
+                    "homepage": "https://memit.baulab.info",
                     "id": 550668046,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-01-31T21:25:13Z",
+                    "open_issues": 17,
                     "owner": "kmeng01",
                     "repo": "memit",
-                    "stars": 559
+                    "stars": 559,
+                    "topics": [
+                      "editing",
+                      "gpt",
+                      "pytorch",
+                      "transformer"
+                    ]
                   },
                   "first_seen": "2026-08-28T18:50:58.381Z"
                 },
@@ -188,12 +254,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for the ACL-2022 paper \"Knowledge Neurons in Pretrained Transformers\"",
+                    "homepage": null,
                     "id": 467092774,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-05-04T07:24:12Z",
+                    "open_issues": 4,
                     "owner": "Hunter-DDM",
                     "repo": "knowledge-neurons",
-                    "stars": 177
+                    "stars": 177,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.381Z"
                 },
@@ -204,12 +275,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Locating and editing factual associations in GPT (NeurIPS 2022)",
+                    "homepage": "https://rome.baulab.info",
                     "id": 457995289,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-04-20T05:32:37Z",
+                    "open_issues": 25,
                     "owner": "kmeng01",
                     "repo": "rome",
-                    "stars": 778
+                    "stars": 778,
+                    "topics": [
+                      "gpt",
+                      "interpretability",
+                      "pytorch",
+                      "transformers"
+                    ]
                   },
                   "first_seen": "2026-08-28T18:50:58.381Z"
                 }
@@ -227,12 +308,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Evaluating the Ripple Effects of Knowledge Editing in Language Models",
+                    "homepage": null,
                     "id": 669288183,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-04-15T14:06:32Z",
+                    "open_issues": 4,
                     "owner": "edenbiran",
                     "repo": "RippleEdits",
-                    "stars": 57
+                    "stars": 57,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.381Z"
                 }
@@ -257,12 +343,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 603225204,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-06-12T21:33:25Z",
+                    "open_issues": 1,
                     "owner": "alexa",
                     "repo": "kilm",
-                    "stars": 23
+                    "stars": 23,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.381Z"
                 },
@@ -273,12 +364,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ModuleFormer is a MoE-based architecture that includes two different types of experts: stick-breaking attention heads and feedforward experts. We released a collection of ModuleFormer-based Language Models (MoLM) ranging in scale from 4 billion to 8 billion parameters.",
+                    "homepage": null,
                     "id": 682660919,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-09-18T00:30:52Z",
+                    "open_issues": 4,
                     "owner": "IBM",
                     "repo": "ModuleFormer",
-                    "stars": 225
+                    "stars": 225,
+                    "topics": [
+                      "lm",
+                      "moe"
+                    ]
                   },
                   "first_seen": "2026-08-28T18:50:58.381Z"
                 },
@@ -289,12 +388,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An Extensible Continual Learning Framework Focused on Language Models (LMs)",
+                    "homepage": null,
                     "id": 600885350,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-01-28T21:26:40Z",
+                    "open_issues": 4,
                     "owner": "UIC-Liu-Lab",
                     "repo": "ContinualLM",
-                    "stars": 294
+                    "stars": 294,
+                    "topics": [
+                      "catastrophic-forgetting",
+                      "continual-learning",
+                      "domain-adaptive-pretraining",
+                      "knowledge-transfer",
+                      "language-model",
+                      "language-modeling",
+                      "natural-language-processing",
+                      "transfer-learning",
+                      "transformer-architecture"
+                    ]
                   },
                   "first_seen": "2026-08-28T18:50:58.381Z"
                 },
@@ -305,12 +419,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 466686152,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2022-04-14T01:15:48Z",
+                    "open_issues": 0,
                     "owner": "thunlp",
                     "repo": "ELLE",
-                    "stars": 31
+                    "stars": 31,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.381Z"
                 },
@@ -321,12 +440,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Adding new tasks to T0 without catastrophic forgetting ",
+                    "homepage": null,
                     "id": 444812669,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-10-20T17:04:56Z",
+                    "open_issues": 1,
                     "owner": "ThomasScialom",
                     "repo": "T0_continual_learning",
-                    "stars": 33
+                    "stars": 33,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.381Z"
                 },
@@ -337,12 +461,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[EMNLP 2022] Continual Training of Language Models for Few-Shot Learning",
+                    "homepage": null,
                     "id": 549327702,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-02-13T09:25:09Z",
+                    "open_issues": 0,
                     "owner": "UIC-Liu-Lab",
                     "repo": "CPT",
-                    "stars": 44
+                    "stars": 44,
+                    "topics": [
+                      "catastrophic-forgetting",
+                      "continual-learning",
+                      "few-shot-learning",
+                      "language-modeling",
+                      "natural-language-processing",
+                      "nlp",
+                      "post-training",
+                      "transformers"
+                    ]
                   },
                   "first_seen": "2026-08-28T18:50:58.381Z"
                 },
@@ -353,12 +491,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[EMNLP 2022] TemporalWiki: A Lifelong Benchmark for Training and Evaluating Ever-Evolving Language Models",
+                    "homepage": null,
                     "id": 426683377,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-05-15T16:38:02Z",
+                    "open_issues": 3,
                     "owner": "joeljang",
                     "repo": "temporalwiki",
-                    "stars": 74
+                    "stars": 74,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.381Z"
                 },
@@ -369,12 +512,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for loralib, an implementation of \"LoRA: Low-Rank Adaptation of Large Language Models\"",
+                    "homepage": "https://arxiv.org/abs/2106.09685",
                     "id": 378010497,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-12-17T03:55:52Z",
+                    "open_issues": 113,
                     "owner": "microsoft",
                     "repo": "LoRA",
-                    "stars": 13769
+                    "stars": 13769,
+                    "topics": [
+                      "adaptation",
+                      "deberta",
+                      "deep-learning",
+                      "gpt-2",
+                      "gpt-3",
+                      "language-model",
+                      "lora",
+                      "low-rank",
+                      "pytorch",
+                      "roberta"
+                    ]
                   },
                   "first_seen": "2026-08-28T18:50:58.381Z"
                 },
@@ -385,12 +544,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICLR 2022] Towards Continual Knowledge Learning of Language Models",
+                    "homepage": null,
                     "id": 414450393,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2022-10-11T02:55:29Z",
+                    "open_issues": 1,
                     "owner": "joeljang",
                     "repo": "continual-knowledge-learning",
-                    "stars": 91
+                    "stars": 91,
+                    "topics": [
+                      "continual-learning",
+                      "large-language-models"
+                    ]
                   },
                   "first_seen": "2026-08-28T18:50:58.381Z"
                 },
@@ -401,12 +568,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "DEMix Layers for Modular Language Modeling",
+                    "homepage": null,
                     "id": 393742023,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-07-28T02:00:16Z",
+                    "open_issues": 0,
                     "owner": "kernelmachine",
                     "repo": "demix",
-                    "stars": 54
+                    "stars": 54,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.381Z"
                 },
@@ -417,12 +589,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 501958809,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2022-11-11T10:34:10Z",
+                    "open_issues": 0,
                     "owner": "nayeon7lee",
                     "repo": "FactualityPrompt",
-                    "stars": 90
+                    "stars": 90,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.381Z"
                 },
@@ -433,12 +610,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Shared repository for open-sourced projects from the Google AI Language team.",
+                    "homepage": "https://ai.google/research/teams/language/",
                     "id": 153201352,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-06-10T18:34:36Z",
+                    "open_issues": 121,
                     "owner": "google-research",
                     "repo": "language",
-                    "stars": 1795
+                    "stars": 1795,
+                    "topics": [
+                      "machine-learning",
+                      "natural-language-processing",
+                      "research"
+                    ]
                   },
                   "first_seen": "2026-08-28T18:50:58.381Z"
                 },
@@ -449,12 +635,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": null,
+                    "homepage": null,
                     "id": 307745300,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-07-16T18:34:14Z",
+                    "open_issues": 9,
                     "owner": "microsoft",
                     "repo": "K-Adapter",
-                    "stars": 165
+                    "stars": 165,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.381Z"
                 },
@@ -465,12 +656,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for the RecAdam paper: Recall and Learn: Fine-tuning Deep Pretrained Language Models with Less Forgetting.",
+                    "homepage": null,
                     "id": 258309690,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2020-11-10T12:26:04Z",
+                    "open_issues": 0,
                     "owner": "Sanyuan-Chen",
                     "repo": "RecAdam",
-                    "stars": 118
+                    "stars": 118,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.381Z"
                 }
@@ -488,12 +684,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[NeurIPS'23] Aging with GRACE: Lifelong Model Editing with Discrete Key-Value Adaptors",
+                    "homepage": null,
                     "id": 651563495,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-12-21T14:18:21Z",
+                    "open_issues": 1,
                     "owner": "Thartvigsen",
                     "repo": "GRACE",
-                    "stars": 85
+                    "stars": 85,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.381Z"
                 },
@@ -504,12 +705,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 592149607,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-08-05T13:32:26Z",
+                    "open_issues": 7,
                     "owner": "ZeroYuHuang",
                     "repo": "Transformer-Patcher",
-                    "stars": 34
+                    "stars": 34,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.381Z"
                 },
@@ -520,12 +726,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "N/A",
+                    "homepage": null,
                     "id": 371178551,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2022-08-15T00:44:45Z",
+                    "open_issues": 1,
                     "owner": "facebookresearch",
                     "repo": "CMR",
-                    "stars": 19
+                    "stars": 19,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T18:50:58.381Z"
                 }
@@ -548,12 +759,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[EMNLP 2023] MQuAKE: Assessing Knowledge Editing in Language Models via Multi-Hop Questions",
+                "homepage": "https://arxiv.org/abs/2305.14795",
                 "id": 644712332,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2024-09-12T17:18:43Z",
+                "open_issues": 8,
                 "owner": "princeton-nlp",
                 "repo": "MQuAKE",
-                "stars": 125
+                "stars": 125,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
             },
@@ -564,12 +780,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TBC",
+                "homepage": null,
                 "id": 496054901,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-11-02T20:21:55Z",
+                "open_issues": 3,
                 "owner": "swj0419",
                 "repo": "kNN_prompt",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
             },
@@ -580,12 +801,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A method to fix GPT-3 after deployment with user feedback, without re-training.",
+                "homepage": null,
                 "id": 428564006,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-04-04T16:40:00Z",
+                "open_issues": 2,
                 "owner": "madaan",
                 "repo": "memprompt",
-                "stars": 331
+                "stars": 331,
+                "topics": [
+                  "feedback",
+                  "few-shot-learning",
+                  "gpt-3",
+                  "gpt-3-prompt",
+                  "language-generation",
+                  "language-modeling",
+                  "prompt-tuning",
+                  "user-feedback"
+                ]
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
             },
@@ -596,12 +831,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyTorch code for the RetoMaton paper: \"Neuro-Symbolic Language Modeling with Automaton-augmented Retrieval\" (ICML 2022)",
+                "homepage": null,
                 "id": 493285237,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-07-16T03:13:01Z",
+                "open_issues": 1,
                 "owner": "neulab",
                 "repo": "retomaton",
-                "stars": 77
+                "stars": 77,
+                "topics": [
+                  "icml-2022",
+                  "knn",
+                  "knn-lm",
+                  "language",
+                  "modeling",
+                  "nearest",
+                  "nearest-neighbor",
+                  "neuro-symbolic",
+                  "neurosymbolic",
+                  "pytorch",
+                  "retomaton",
+                  "retrieval"
+                ]
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
             },
@@ -612,12 +865,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Semi-Parametric Editing with a Retrieval-Augmented Counterfactual Model",
+                "homepage": null,
                 "id": 558598282,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-11-01T18:01:05Z",
+                "open_issues": 5,
                 "owner": "eric-mitchell",
                 "repo": "serac",
-                "stars": 72
+                "stars": 72,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
             },
@@ -628,12 +886,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The InterScript dataset contains interactive user feedback on scripts generated by a T5-XXL model.",
+                "homepage": null,
                 "id": 438470501,
                 "language": "HTML",
+                "license": "Apache-2.0",
                 "last_commit": "2021-12-15T02:42:08Z",
+                "open_issues": 0,
                 "owner": "allenai",
                 "repo": "interscript",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
             },
@@ -644,12 +907,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pytorch implementation of paper \"Efficient Nearest Neighbor Language Models\" (EMNLP 2021)",
+                "homepage": null,
                 "id": 405148276,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-01-20T00:20:10Z",
+                "open_issues": 0,
                 "owner": "jxhe",
                 "repo": "efficient-knnlm",
-                "stars": 75
+                "stars": 75,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
             },
@@ -660,12 +928,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 239880741,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-06-07T18:40:44Z",
+                "open_issues": 6,
                 "owner": "urvashik",
                 "repo": "knnlm",
-                "stars": 332
+                "stars": 332,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
             }
@@ -683,12 +956,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ACL 2023] This is the code repo for our ACL'23 paper \"Augmentation-Adapted Retriever Improves Generalization of Language Models as Generic Plug-In\".",
+                "homepage": null,
                 "id": 599198890,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-07-12T22:14:39Z",
+                "open_issues": 1,
                 "owner": "OpenMatch",
                 "repo": "Augmentation-Adapted-Retriever",
-                "stars": 60
+                "stars": 60,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
             },
@@ -699,12 +977,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 580091835,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-07-02T16:58:30Z",
+                "open_issues": 0,
                 "owner": "AlexTMallen",
                 "repo": "adaptive-retrieval",
-                "stars": 193
+                "stars": 193,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
             },
@@ -715,12 +998,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repository for Interleaving Retrieval with Chain-of-Thought Reasoning for Knowledge-Intensive Multi-Step Questions, ACL23",
+                "homepage": "https://arxiv.org/abs/2212.10509",
                 "id": 580495470,
                 "language": "Jsonnet",
+                "license": "Apache-2.0",
                 "last_commit": "2024-06-12T01:32:57Z",
+                "open_issues": 13,
                 "owner": "StonyBrookNLP",
                 "repo": "ircot",
-                "stars": 276
+                "stars": 276,
+                "topics": [
+                  "chain-of-thought",
+                  "large-language-models",
+                  "multi-step-reasoning",
+                  "multi-step-retrieval",
+                  "question-answering",
+                  "retrieval-augmented-qa"
+                ]
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
             },
@@ -731,12 +1026,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RARR: Researching and Revising What Language Models Say, Using Language Models",
+                "homepage": null,
                 "id": 613603693,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-06-22T07:09:00Z",
+                "open_issues": 3,
                 "owner": "anthonywchen",
                 "repo": "RARR",
-                "stars": 54
+                "stars": 54,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
             },
@@ -747,12 +1047,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MultiTool-CoT: GPT-3 Can Use Multiple External Tools with Chain of Thought Prompting",
+                "homepage": null,
                 "id": 640455146,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-07-11T16:27:24Z",
+                "open_issues": 0,
                 "owner": "tatsuropfgt",
                 "repo": "MultiTool-CoT",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
             },
@@ -763,12 +1068,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 607001144,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-11-30T08:21:03Z",
+                "open_issues": 2,
                 "owner": "Zce1112zslx",
                 "repo": "IKE",
-                "stars": 41
+                "stars": 41,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
             },
@@ -779,12 +1089,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code and data for \"Measuring and Narrowing the Compositionality Gap in Language Models\"",
+                "homepage": null,
                 "id": 545338125,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2023-12-28T21:00:09Z",
+                "open_issues": 1,
                 "owner": "ofirpress",
                 "repo": "self-ask",
-                "stars": 324
+                "stars": 324,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
             },
@@ -795,12 +1110,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 540550033,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2023-06-27T06:20:53Z",
+                "open_issues": 4,
                 "owner": "bhargaviparanjape",
                 "repo": "language-programmes",
-                "stars": 173
+                "stars": 173,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
             },
@@ -811,12 +1131,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official repository of \"ChatCoT: Tool-Augmented Chain-of-Thought Reasoning on Chat-based Large Language Models\"",
+                "homepage": null,
                 "id": 644532321,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-06-02T14:05:29Z",
+                "open_issues": 0,
                 "owner": "RUCAIBox",
                 "repo": "ChatCoT",
-                "stars": 47
+                "stars": 47,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
             },
@@ -827,12 +1152,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 605795598,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-04-06T09:46:11Z",
+                "open_issues": 5,
                 "owner": "pengbaolin",
                 "repo": "LLM-Augmenter",
-                "stars": 444
+                "stars": 444,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
             },
@@ -843,12 +1173,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multiple paper open-source codes of the Microsoft Research Asia DKI group",
+                "homepage": null,
                 "id": 255534819,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-11-10T02:14:43Z",
+                "open_issues": 19,
                 "owner": "microsoft",
                 "repo": "ContextualSP",
-                "stars": 386
+                "stars": 386,
+                "topics": [
+                  "compositional-generalization",
+                  "conversational-semantic-parsing",
+                  "microsoft-research-asia",
+                  "semantic-parsing",
+                  "text-to-sql",
+                  "utterance-rewriting"
+                ]
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
             },
@@ -859,12 +1201,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Forward-Looking Active REtrieval-augmented generation (FLARE)",
+                "homepage": null,
                 "id": 638873405,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-11-20T08:25:17Z",
+                "open_issues": 17,
                 "owner": "jzbjyb",
                 "repo": "FLARE",
-                "stars": 668
+                "stars": 668,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
             },
@@ -875,12 +1222,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DSPy: The framework for programming—not prompting—language models",
+                "homepage": "https://dspy.ai",
                 "id": 587050620,
                 "language": "Python",
-                "last_commit": "2026-08-27T23:08:31Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T23:02:27Z",
+                "open_issues": 639,
                 "owner": "stanfordnlp",
                 "repo": "dspy",
-                "stars": 37635
+                "stars": 37641,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
             },
@@ -891,12 +1243,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A research project for natural language generation, containing the official implementations by MSRA NLC team.",
+                "homepage": null,
                 "id": 241198514,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-07-25T11:27:09Z",
+                "open_issues": 55,
                 "owner": "microsoft",
                 "repo": "ProphetNet",
-                "stars": 745
+                "stars": 745,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
             },
@@ -907,12 +1264,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WikiChat is an improved RAG. It stops the hallucination of large language models by retrieving data from a corpus.",
+                "homepage": "https://wikichat.genie.stanford.edu",
                 "id": 707356799,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-01-31T04:13:47Z",
+                "open_issues": 9,
                 "owner": "stanford-oval",
                 "repo": "WikiChat",
-                "stars": 1615
+                "stars": 1615,
+                "topics": [
+                  "chatbot",
+                  "emnlp2023",
+                  "factuality",
+                  "llm",
+                  "natural-language-processing",
+                  "nlp",
+                  "rag"
+                ]
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
             },
@@ -923,12 +1293,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 549336399,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-01-23T03:24:16Z",
+                "open_issues": 0,
                 "owner": "NoviScl",
                 "repo": "GPT3-Reliability",
-                "stars": 80
+                "stars": 80,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
             },
@@ -939,12 +1314,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repository for Decomposed Prompting",
+                "homepage": null,
                 "id": 543338082,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-11-15T21:20:30Z",
+                "open_issues": 3,
                 "owner": "allenai",
                 "repo": "DecomP",
-                "stars": 101
+                "stars": 101,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
             },
@@ -955,12 +1335,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR 2023] ReAct: Synergizing Reasoning and Acting in Language Models",
+                "homepage": null,
                 "id": 565563619,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2024-02-06T02:34:32Z",
+                "open_issues": 5,
                 "owner": "ysymyth",
                 "repo": "ReAct",
-                "stars": 4130
+                "stars": 4131,
+                "topics": [
+                  "decision-making",
+                  "large-language-models",
+                  "llm",
+                  "prompting",
+                  "reasoning"
+                ]
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
             },
@@ -971,12 +1362,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 593596662,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-12-20T07:55:54Z",
+                "open_issues": 4,
                 "owner": "AI21Labs",
                 "repo": "in-context-ralm",
-                "stars": 295
+                "stars": 295,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
             },
@@ -987,12 +1383,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 600578889,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-04-19T20:51:00Z",
+                "open_issues": 0,
                 "owner": "HornHehhf",
                 "repo": "RR",
-                "stars": 46
+                "stars": 46,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
             }
@@ -1010,12 +1411,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 640988631,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-06-10T19:22:49Z",
+                "open_issues": 0,
                 "owner": "Ziems",
                 "repo": "llm-url",
-                "stars": 36
+                "stars": 36,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
             },
@@ -1026,12 +1432,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RARR: Researching and Revising What Language Models Say, Using Language Models",
+                "homepage": null,
                 "id": 613603693,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-06-22T07:09:00Z",
+                "open_issues": 3,
                 "owner": "anthonywchen",
                 "repo": "RARR",
-                "stars": 54
+                "stars": 54,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
             },
@@ -1042,12 +1453,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code and data for \"Measuring and Narrowing the Compositionality Gap in Language Models\"",
+                "homepage": null,
                 "id": 545338125,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2023-12-28T21:00:09Z",
+                "open_issues": 1,
                 "owner": "ofirpress",
                 "repo": "self-ask",
-                "stars": 324
+                "stars": 324,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
             },
@@ -1058,12 +1474,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 540550033,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2023-06-27T06:20:53Z",
+                "open_issues": 4,
                 "owner": "bhargaviparanjape",
                 "repo": "language-programmes",
-                "stars": 173
+                "stars": 173,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
             },
@@ -1074,12 +1495,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 608555244,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-01-06T02:41:20Z",
+                "open_issues": 261,
                 "owner": "chenfei-wu",
                 "repo": "TaskMatrix",
-                "stars": 34000
+                "stars": 34000,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
             },
@@ -1090,12 +1516,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official repo for MM-REACT",
+                "homepage": "https://multimodal-react.github.io/",
                 "id": 614230777,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-01-31T21:37:28Z",
+                "open_issues": 21,
                 "owner": "microsoft",
                 "repo": "MM-REACT",
-                "stars": 966
+                "stars": 966,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
             },
@@ -1106,12 +1537,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Forward-Looking Active REtrieval-augmented generation (FLARE)",
+                "homepage": null,
                 "id": 638873405,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-11-20T08:25:17Z",
+                "open_issues": 17,
                 "owner": "jzbjyb",
                 "repo": "FLARE",
-                "stars": 668
+                "stars": 668,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
             },
@@ -1122,12 +1558,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Codes for \"Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models\".",
+                "homepage": "https://chameleon-llm.github.io",
                 "id": 629816595,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2023-12-23T03:36:42Z",
+                "open_issues": 8,
                 "owner": "lupantech",
                 "repo": "chameleon-llm",
-                "stars": 1140
+                "stars": 1140,
+                "topics": [
+                  "ai",
+                  "chatgpt",
+                  "gpt-4",
+                  "llm",
+                  "openai",
+                  "python",
+                  "tool"
+                ]
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
             },
@@ -1138,12 +1587,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A research project for natural language generation, containing the official implementations by MSRA NLC team.",
+                "homepage": null,
                 "id": 241198514,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-07-25T11:27:09Z",
+                "open_issues": 55,
                 "owner": "microsoft",
                 "repo": "ProphetNet",
-                "stars": 745
+                "stars": 745,
+                "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
             },
@@ -1154,12 +1608,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR 2023] ReAct: Synergizing Reasoning and Acting in Language Models",
+                "homepage": null,
                 "id": 565563619,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2024-02-06T02:34:32Z",
+                "open_issues": 5,
                 "owner": "ysymyth",
                 "repo": "ReAct",
-                "stars": 4130
+                "stars": 4131,
+                "topics": [
+                  "decision-making",
+                  "large-language-models",
+                  "llm",
+                  "prompting",
+                  "reasoning"
+                ]
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
             }
@@ -1183,12 +1648,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The agent engineering platform.",
+                "homepage": "https://docs.langchain.com/langchain/",
                 "id": 552661142,
                 "language": "Python",
-                "last_commit": "2026-08-28T16:19:21Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T23:20:17Z",
+                "open_issues": 431,
                 "owner": "langchain-ai",
                 "repo": "langchain",
-                "stars": 145200
+                "stars": 145216,
+                "topics": [
+                  "agents",
+                  "ai",
+                  "ai-agents",
+                  "anthropic",
+                  "chatgpt",
+                  "deepagents",
+                  "enterprise",
+                  "framework",
+                  "gemini",
+                  "generative-ai",
+                  "langchain",
+                  "langgraph",
+                  "llm",
+                  "multiagent",
+                  "open-source",
+                  "openai",
+                  "pydantic",
+                  "python",
+                  "rag",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
             },
@@ -1199,12 +1690,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ACL 2024] An Easy-to-use Knowledge Editing Framework for LLMs.",
+                "homepage": "https://zjunlp.github.io/project/KnowEdit",
                 "id": 638156745,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2026-07-14T12:47:07Z",
+                "open_issues": 0,
                 "owner": "zjunlp",
                 "repo": "EasyEdit",
-                "stars": 2909
+                "stars": 2909,
+                "topics": [
+                  "artificial-intelligence",
+                  "baichuan",
+                  "chatgpt",
+                  "cknowedit",
+                  "easyedit",
+                  "easyedit2",
+                  "efficient",
+                  "gpt",
+                  "knowedit",
+                  "knowledge-editing",
+                  "knowlm",
+                  "large-language-models",
+                  "llama",
+                  "mmedit",
+                  "model-editing",
+                  "natural-language-processing",
+                  "safeedit",
+                  "tool",
+                  "trustworthy-ai",
+                  "unlearning"
+                ]
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
             },
@@ -1215,12 +1732,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Avalanche: an End-to-End Library for Continual Learning based on PyTorch.",
+                "homepage": "http://avalanche.continualai.org",
                 "id": 245145949,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-03-11T16:17:01Z",
+                "open_issues": 116,
                 "owner": "ContinualAI",
                 "repo": "avalanche",
-                "stars": 2088
+                "stars": 2088,
+                "topics": [
+                  "benchmarks",
+                  "continual-learning",
+                  "continualai",
+                  "deep-learning",
+                  "evaluation",
+                  "framework",
+                  "library",
+                  "lifelong-learning",
+                  "metrics",
+                  "pytorch",
+                  "strategies",
+                  "training"
+                ]
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
             },
@@ -1231,12 +1766,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🩹Editing large language models within 10 seconds⚡",
+                "homepage": null,
                 "id": 664177247,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-08-13T03:52:25Z",
+                "open_issues": 21,
                 "owner": "hiyouga",
                 "repo": "FastEdit",
-                "stars": 1366
+                "stars": 1366,
+                "topics": [
+                  "bloom",
+                  "chatbots",
+                  "chatgpt",
+                  "falcon",
+                  "gpt",
+                  "large-language-models",
+                  "llama",
+                  "llms",
+                  "pytorch",
+                  "transformers"
+                ]
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
             },
@@ -1247,12 +1798,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyContinual (An Easy and Extendible Framework for Continual Learning)",
+                "homepage": null,
                 "id": 373950964,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-01-29T20:57:15Z",
+                "open_issues": 6,
                 "owner": "ZixuanKe",
                 "repo": "PyContinual",
-                "stars": 323
+                "stars": 323,
+                "topics": [
+                  "attention-mechanism",
+                  "capsule-network",
+                  "catastrophic-forgetting",
+                  "continual-learning",
+                  "knowledge-transfer",
+                  "natural-language-processing",
+                  "text-classification",
+                  "transfer-learning",
+                  "transformer-architecture"
+                ]
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
             }
@@ -1266,15 +1832,36 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T18:50:58.381Z",
+    "last_updated": "2026-08-29T04:55:40.919Z",
     "original_repository_info": {
       "archived": false,
+      "description": "EMNLP'23 survey: a curation of awesome papers and resources on refreshing large language models (LLMs) without expensive retraining.",
+      "homepage": null,
       "id": 702145514,
       "language": null,
+      "license": "MIT",
       "last_commit": "2023-12-12T12:20:16Z",
+      "open_issues": 0,
       "owner": "hyintell",
       "repo": "awesome-refreshing-llms",
-      "stars": 135
+      "stars": 135,
+      "topics": [
+        "awesome-list",
+        "continual-learning",
+        "knowledge-editing",
+        "large-language-models",
+        "llm",
+        "llms",
+        "natural-language-processing",
+        "nlp",
+        "paper",
+        "pretrained-language-model",
+        "refreshing",
+        "retrieval-augmented-generation",
+        "review",
+        "survey",
+        "update-llm"
+      ]
     },
     "original_repository_sha": "96a148e9e10b6a99299675b22c68a8bfa702f328",
     "enhanced_repository": "enhansome/enhansome-refreshing-llms",
