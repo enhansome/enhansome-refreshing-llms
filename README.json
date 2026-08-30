@@ -397,7 +397,7 @@
                     "open_issues": 4,
                     "owner": "UIC-Liu-Lab",
                     "repo": "ContinualLM",
-                    "stars": 294,
+                    "stars": 295,
                     "topics": [
                       "catastrophic-forgetting",
                       "continual-learning",
@@ -1228,10 +1228,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-28T23:02:27Z",
-                "open_issues": 642,
+                "open_issues": 643,
                 "owner": "stanfordnlp",
                 "repo": "dspy",
-                "stars": 37648,
+                "stars": 37658,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
@@ -1344,7 +1344,7 @@
                 "open_issues": 5,
                 "owner": "ysymyth",
                 "repo": "ReAct",
-                "stars": 4131,
+                "stars": 4133,
                 "topics": [
                   "decision-making",
                   "large-language-models",
@@ -1504,7 +1504,7 @@
                 "open_issues": 261,
                 "owner": "chenfei-wu",
                 "repo": "TaskMatrix",
-                "stars": 33999,
+                "stars": 33998,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
@@ -1617,7 +1617,7 @@
                 "open_issues": 5,
                 "owner": "ysymyth",
                 "repo": "ReAct",
-                "stars": 4131,
+                "stars": 4133,
                 "topics": [
                   "decision-making",
                   "large-language-models",
@@ -1653,11 +1653,11 @@
                 "id": 552661142,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-29T08:14:11Z",
-                "open_issues": 432,
+                "last_commit": "2026-08-30T08:14:57Z",
+                "open_issues": 430,
                 "owner": "langchain-ai",
                 "repo": "langchain",
-                "stars": 145236,
+                "stars": 145277,
                 "topics": [
                   "agents",
                   "ai",
@@ -1696,10 +1696,10 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-07-14T12:47:07Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "zjunlp",
                 "repo": "EasyEdit",
-                "stars": 2909,
+                "stars": 2910,
                 "topics": [
                   "artificial-intelligence",
                   "baichuan",
@@ -1832,7 +1832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T12:45:11.054Z",
+    "last_updated": "2026-08-30T12:02:21.412Z",
     "original_repository_info": {
       "archived": false,
       "description": "EMNLP'23 survey: a curation of awesome papers and resources on refreshing large language models (LLMs) without expensive retraining.",
