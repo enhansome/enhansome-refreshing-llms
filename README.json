@@ -521,7 +521,7 @@
                     "open_issues": 114,
                     "owner": "microsoft",
                     "repo": "LoRA",
-                    "stars": 13776,
+                    "stars": 13777,
                     "topics": [
                       "adaptation",
                       "deberta",
@@ -1227,11 +1227,11 @@
                 "id": 587050620,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-03T18:32:15Z",
-                "open_issues": 652,
+                "last_commit": "2026-09-04T18:59:38Z",
+                "open_issues": 651,
                 "owner": "stanfordnlp",
                 "repo": "dspy",
-                "stars": 37765,
+                "stars": 37787,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
@@ -1504,7 +1504,7 @@
                 "open_issues": 261,
                 "owner": "chenfei-wu",
                 "repo": "TaskMatrix",
-                "stars": 33991,
+                "stars": 33989,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
@@ -1653,11 +1653,11 @@
                 "id": 552661142,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-04T09:03:37Z",
-                "open_issues": 447,
+                "last_commit": "2026-09-05T08:27:47Z",
+                "open_issues": 452,
                 "owner": "langchain-ai",
                 "repo": "langchain",
-                "stars": 145624,
+                "stars": 145680,
                 "topics": [
                   "agents",
                   "ai",
@@ -1832,7 +1832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T11:29:35.164Z",
+    "last_updated": "2026-09-05T10:45:21.649Z",
     "original_repository_info": {
       "archived": false,
       "description": "EMNLP'23 survey: a curation of awesome papers and resources on refreshing large language models (LLMs) without expensive retraining.",
