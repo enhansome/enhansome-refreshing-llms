@@ -284,7 +284,7 @@
                     "open_issues": 26,
                     "owner": "kmeng01",
                     "repo": "rome",
-                    "stars": 778,
+                    "stars": 779,
                     "topics": [
                       "gpt",
                       "interpretability",
@@ -521,7 +521,7 @@
                     "open_issues": 114,
                     "owner": "microsoft",
                     "repo": "LoRA",
-                    "stars": 13786,
+                    "stars": 13788,
                     "topics": [
                       "adaptation",
                       "deberta",
@@ -1227,11 +1227,11 @@
                 "id": 587050620,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-09T17:20:53Z",
-                "open_issues": 669,
+                "last_commit": "2026-09-11T07:40:55Z",
+                "open_issues": 672,
                 "owner": "stanfordnlp",
                 "repo": "dspy",
-                "stars": 37894,
+                "stars": 37911,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
@@ -1653,11 +1653,11 @@
                 "id": 552661142,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-10T08:29:06Z",
-                "open_issues": 479,
+                "last_commit": "2026-09-11T08:28:30Z",
+                "open_issues": 485,
                 "owner": "langchain-ai",
                 "repo": "langchain",
-                "stars": 146057,
+                "stars": 146118,
                 "topics": [
                   "agents",
                   "ai",
@@ -1832,7 +1832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T11:32:21.865Z",
+    "last_updated": "2026-09-11T11:33:37.748Z",
     "original_repository_info": {
       "archived": false,
       "description": "EMNLP'23 survey: a curation of awesome papers and resources on refreshing large language models (LLMs) without expensive retraining.",
