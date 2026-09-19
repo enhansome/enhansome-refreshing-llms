@@ -521,7 +521,7 @@
                     "open_issues": 114,
                     "owner": "microsoft",
                     "repo": "LoRA",
-                    "stars": 13799,
+                    "stars": 13800,
                     "topics": [
                       "adaptation",
                       "deberta",
@@ -1227,11 +1227,11 @@
                 "id": 587050620,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-18T11:19:03Z",
-                "open_issues": 705,
+                "last_commit": "2026-09-18T22:32:06Z",
+                "open_issues": 708,
                 "owner": "stanfordnlp",
                 "repo": "dspy",
-                "stars": 38116,
+                "stars": 38141,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
@@ -1252,7 +1252,7 @@
                 "open_issues": 55,
                 "owner": "microsoft",
                 "repo": "ProphetNet",
-                "stars": 745,
+                "stars": 746,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
@@ -1596,7 +1596,7 @@
                 "open_issues": 55,
                 "owner": "microsoft",
                 "repo": "ProphetNet",
-                "stars": 745,
+                "stars": 746,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
@@ -1653,11 +1653,11 @@
                 "id": 552661142,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-18T08:32:25Z",
-                "open_issues": 542,
+                "last_commit": "2026-09-19T08:59:52Z",
+                "open_issues": 535,
                 "owner": "langchain-ai",
                 "repo": "langchain",
-                "stars": 146587,
+                "stars": 146653,
                 "topics": [
                   "agents",
                   "ai",
@@ -1832,7 +1832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T11:29:11.964Z",
+    "last_updated": "2026-09-19T11:13:16.256Z",
     "original_repository_info": {
       "archived": false,
       "description": "EMNLP'23 survey: a curation of awesome papers and resources on refreshing large language models (LLMs) without expensive retraining.",
