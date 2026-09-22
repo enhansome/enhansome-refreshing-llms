@@ -521,7 +521,7 @@
                     "open_issues": 114,
                     "owner": "microsoft",
                     "repo": "LoRA",
-                    "stars": 13807,
+                    "stars": 13810,
                     "topics": [
                       "adaptation",
                       "deberta",
@@ -619,7 +619,7 @@
                     "open_issues": 122,
                     "owner": "google-research",
                     "repo": "language",
-                    "stars": 1805,
+                    "stars": 1806,
                     "topics": [
                       "machine-learning",
                       "natural-language-processing",
@@ -1007,7 +1007,7 @@
                 "open_issues": 13,
                 "owner": "StonyBrookNLP",
                 "repo": "ircot",
-                "stars": 277,
+                "stars": 278,
                 "topics": [
                   "chain-of-thought",
                   "large-language-models",
@@ -1227,11 +1227,11 @@
                 "id": 587050620,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-20T20:59:18Z",
-                "open_issues": 714,
+                "last_commit": "2026-09-21T18:14:32Z",
+                "open_issues": 717,
                 "owner": "stanfordnlp",
                 "repo": "dspy",
-                "stars": 38175,
+                "stars": 38201,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
@@ -1323,7 +1323,7 @@
                 "open_issues": 3,
                 "owner": "allenai",
                 "repo": "DecomP",
-                "stars": 101,
+                "stars": 102,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
@@ -1344,7 +1344,7 @@
                 "open_issues": 5,
                 "owner": "ysymyth",
                 "repo": "ReAct",
-                "stars": 4183,
+                "stars": 4185,
                 "topics": [
                   "decision-making",
                   "large-language-models",
@@ -1501,10 +1501,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2024-01-06T02:41:20Z",
-                "open_issues": 261,
+                "open_issues": 262,
                 "owner": "chenfei-wu",
                 "repo": "TaskMatrix",
-                "stars": 33976,
+                "stars": 33975,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
@@ -1617,7 +1617,7 @@
                 "open_issues": 5,
                 "owner": "ysymyth",
                 "repo": "ReAct",
-                "stars": 4183,
+                "stars": 4185,
                 "topics": [
                   "decision-making",
                   "large-language-models",
@@ -1653,11 +1653,11 @@
                 "id": 552661142,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-21T08:56:46Z",
-                "open_issues": 540,
+                "last_commit": "2026-09-22T08:33:01Z",
+                "open_issues": 552,
                 "owner": "langchain-ai",
                 "repo": "langchain",
-                "stars": 146786,
+                "stars": 146858,
                 "topics": [
                   "agents",
                   "ai",
@@ -1741,7 +1741,7 @@
                 "open_issues": 116,
                 "owner": "ContinualAI",
                 "repo": "avalanche",
-                "stars": 2093,
+                "stars": 2094,
                 "topics": [
                   "benchmarks",
                   "continual-learning",
@@ -1832,7 +1832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T13:03:02.369Z",
+    "last_updated": "2026-09-22T11:52:10.567Z",
     "original_repository_info": {
       "archived": false,
       "description": "EMNLP'23 survey: a curation of awesome papers and resources on refreshing large language models (LLMs) without expensive retraining.",
