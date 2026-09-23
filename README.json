@@ -1007,7 +1007,7 @@
                 "open_issues": 13,
                 "owner": "StonyBrookNLP",
                 "repo": "ircot",
-                "stars": 278,
+                "stars": 279,
                 "topics": [
                   "chain-of-thought",
                   "large-language-models",
@@ -1227,11 +1227,11 @@
                 "id": 587050620,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-21T18:14:32Z",
-                "open_issues": 717,
+                "last_commit": "2026-09-23T06:13:13Z",
+                "open_issues": 719,
                 "owner": "stanfordnlp",
                 "repo": "dspy",
-                "stars": 38201,
+                "stars": 38223,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
@@ -1504,7 +1504,7 @@
                 "open_issues": 262,
                 "owner": "chenfei-wu",
                 "repo": "TaskMatrix",
-                "stars": 33975,
+                "stars": 33974,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
@@ -1653,11 +1653,11 @@
                 "id": 552661142,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-22T08:33:01Z",
-                "open_issues": 552,
+                "last_commit": "2026-09-23T09:02:49Z",
+                "open_issues": 560,
                 "owner": "langchain-ai",
                 "repo": "langchain",
-                "stars": 146858,
+                "stars": 146919,
                 "topics": [
                   "agents",
                   "ai",
@@ -1699,7 +1699,7 @@
                 "open_issues": 1,
                 "owner": "zjunlp",
                 "repo": "EasyEdit",
-                "stars": 2924,
+                "stars": 2926,
                 "topics": [
                   "artificial-intelligence",
                   "baichuan",
@@ -1832,7 +1832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T11:52:10.567Z",
+    "last_updated": "2026-09-23T11:51:56.261Z",
     "original_repository_info": {
       "archived": false,
       "description": "EMNLP'23 survey: a curation of awesome papers and resources on refreshing large language models (LLMs) without expensive retraining.",
