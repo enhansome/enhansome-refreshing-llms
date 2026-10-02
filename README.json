@@ -521,7 +521,7 @@
                     "open_issues": 114,
                     "owner": "microsoft",
                     "repo": "LoRA",
-                    "stars": 13823,
+                    "stars": 13825,
                     "topics": [
                       "adaptation",
                       "deberta",
@@ -1007,7 +1007,7 @@
                 "open_issues": 13,
                 "owner": "StonyBrookNLP",
                 "repo": "ircot",
-                "stars": 280,
+                "stars": 281,
                 "topics": [
                   "chain-of-thought",
                   "large-language-models",
@@ -1210,7 +1210,7 @@
                 "open_issues": 17,
                 "owner": "jzbjyb",
                 "repo": "FLARE",
-                "stars": 666,
+                "stars": 667,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
@@ -1227,11 +1227,11 @@
                 "id": 587050620,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-01T13:26:42Z",
-                "open_issues": 754,
+                "last_commit": "2026-10-02T05:17:56Z",
+                "open_issues": 762,
                 "owner": "stanfordnlp",
                 "repo": "dspy",
-                "stars": 38448,
+                "stars": 38466,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
@@ -1504,7 +1504,7 @@
                 "open_issues": 262,
                 "owner": "chenfei-wu",
                 "repo": "TaskMatrix",
-                "stars": 33975,
+                "stars": 33976,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
@@ -1546,7 +1546,7 @@
                 "open_issues": 17,
                 "owner": "jzbjyb",
                 "repo": "FLARE",
-                "stars": 666,
+                "stars": 667,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
@@ -1567,7 +1567,7 @@
                 "open_issues": 8,
                 "owner": "lupantech",
                 "repo": "chameleon-llm",
-                "stars": 1141,
+                "stars": 1142,
                 "topics": [
                   "ai",
                   "chatgpt",
@@ -1653,11 +1653,11 @@
                 "id": 552661142,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-01T09:16:18Z",
-                "open_issues": 597,
+                "last_commit": "2026-10-02T08:35:17Z",
+                "open_issues": 605,
                 "owner": "langchain-ai",
                 "repo": "langchain",
-                "stars": 147350,
+                "stars": 147382,
                 "topics": [
                   "agents",
                   "ai",
@@ -1741,7 +1741,7 @@
                 "open_issues": 116,
                 "owner": "ContinualAI",
                 "repo": "avalanche",
-                "stars": 2100,
+                "stars": 2101,
                 "topics": [
                   "benchmarks",
                   "continual-learning",
@@ -1832,7 +1832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T13:33:47.030Z",
+    "last_updated": "2026-10-02T12:52:28.368Z",
     "original_repository_info": {
       "archived": false,
       "description": "EMNLP'23 survey: a curation of awesome papers and resources on refreshing large language models (LLMs) without expensive retraining.",
