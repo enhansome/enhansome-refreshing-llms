@@ -521,7 +521,7 @@
                     "open_issues": 114,
                     "owner": "microsoft",
                     "repo": "LoRA",
-                    "stars": 13832,
+                    "stars": 13831,
                     "topics": [
                       "adaptation",
                       "deberta",
@@ -1231,7 +1231,7 @@
                 "open_issues": 770,
                 "owner": "stanfordnlp",
                 "repo": "dspy",
-                "stars": 38514,
+                "stars": 38516,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
@@ -1653,11 +1653,11 @@
                 "id": 552661142,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-06T08:48:16Z",
+                "last_commit": "2026-10-06T13:24:14Z",
                 "open_issues": 641,
                 "owner": "langchain-ai",
                 "repo": "langchain",
-                "stars": 147493,
+                "stars": 147498,
                 "topics": [
                   "agents",
                   "ai",
@@ -1832,7 +1832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:28:32.723Z",
+    "last_updated": "2026-10-06T13:26:54.859Z",
     "original_repository_info": {
       "archived": false,
       "description": "EMNLP'23 survey: a curation of awesome papers and resources on refreshing large language models (LLMs) without expensive retraining.",
