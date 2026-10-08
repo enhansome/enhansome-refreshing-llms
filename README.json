@@ -521,7 +521,7 @@
                     "open_issues": 114,
                     "owner": "microsoft",
                     "repo": "LoRA",
-                    "stars": 13833,
+                    "stars": 13838,
                     "topics": [
                       "adaptation",
                       "deberta",
@@ -619,7 +619,7 @@
                     "open_issues": 124,
                     "owner": "google-research",
                     "repo": "language",
-                    "stars": 1813,
+                    "stars": 1814,
                     "topics": [
                       "machine-learning",
                       "natural-language-processing",
@@ -1172,7 +1172,7 @@
               "description": "Arxiv Question Answering as Programming for Solving Time-Sensitive Questions",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "Multiple paper open-source codes of the Microsoft Research Asia DKI group",
                 "homepage": null,
                 "id": 255534819,
@@ -1227,11 +1227,11 @@
                 "id": 587050620,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-05T16:53:15Z",
-                "open_issues": 778,
+                "last_commit": "2026-10-08T13:39:14Z",
+                "open_issues": 782,
                 "owner": "stanfordnlp",
                 "repo": "dspy",
-                "stars": 38540,
+                "stars": 38557,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
@@ -1273,7 +1273,7 @@
                 "open_issues": 10,
                 "owner": "stanford-oval",
                 "repo": "WikiChat",
-                "stars": 1619,
+                "stars": 1620,
                 "topics": [
                   "chatbot",
                   "emnlp2023",
@@ -1344,7 +1344,7 @@
                 "open_issues": 5,
                 "owner": "ysymyth",
                 "repo": "ReAct",
-                "stars": 4203,
+                "stars": 4207,
                 "topics": [
                   "decision-making",
                   "large-language-models",
@@ -1504,7 +1504,7 @@
                 "open_issues": 262,
                 "owner": "chenfei-wu",
                 "repo": "TaskMatrix",
-                "stars": 33965,
+                "stars": 33963,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
@@ -1617,7 +1617,7 @@
                 "open_issues": 5,
                 "owner": "ysymyth",
                 "repo": "ReAct",
-                "stars": 4203,
+                "stars": 4207,
                 "topics": [
                   "decision-making",
                   "large-language-models",
@@ -1653,11 +1653,11 @@
                 "id": 552661142,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-07T12:26:36Z",
-                "open_issues": 628,
+                "last_commit": "2026-10-08T13:35:51Z",
+                "open_issues": 633,
                 "owner": "langchain-ai",
                 "repo": "langchain",
-                "stars": 147527,
+                "stars": 147584,
                 "topics": [
                   "agents",
                   "ai",
@@ -1699,7 +1699,7 @@
                 "open_issues": 0,
                 "owner": "zjunlp",
                 "repo": "EasyEdit",
-                "stars": 2929,
+                "stars": 2928,
                 "topics": [
                   "artificial-intelligence",
                   "baichuan",
@@ -1832,7 +1832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T13:37:50.001Z",
+    "last_updated": "2026-10-08T13:44:48.883Z",
     "original_repository_info": {
       "archived": false,
       "description": "EMNLP'23 survey: a curation of awesome papers and resources on refreshing large language models (LLMs) without expensive retraining.",
