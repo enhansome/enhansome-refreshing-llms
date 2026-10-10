@@ -135,7 +135,7 @@
                     "open_issues": 5,
                     "owner": "nicola-decao",
                     "repo": "KnowledgeEditor",
-                    "stars": 141,
+                    "stars": 140,
                     "topics": [
                       "natural-language-processing",
                       "nlp",
@@ -284,7 +284,7 @@
                     "open_issues": 26,
                     "owner": "kmeng01",
                     "repo": "rome",
-                    "stars": 781,
+                    "stars": 782,
                     "topics": [
                       "gpt",
                       "interpretability",
@@ -521,7 +521,7 @@
                     "open_issues": 114,
                     "owner": "microsoft",
                     "repo": "LoRA",
-                    "stars": 13842,
+                    "stars": 13846,
                     "topics": [
                       "adaptation",
                       "deberta",
@@ -616,10 +616,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-06-10T18:34:36Z",
-                    "open_issues": 124,
+                    "open_issues": 125,
                     "owner": "google-research",
                     "repo": "language",
-                    "stars": 1814,
+                    "stars": 1815,
                     "topics": [
                       "machine-learning",
                       "natural-language-processing",
@@ -1227,11 +1227,11 @@
                 "id": 587050620,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-08T16:55:21Z",
-                "open_issues": 786,
+                "last_commit": "2026-10-09T15:32:45Z",
+                "open_issues": 792,
                 "owner": "stanfordnlp",
                 "repo": "dspy",
-                "stars": 38566,
+                "stars": 38580,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
@@ -1273,7 +1273,7 @@
                 "open_issues": 10,
                 "owner": "stanford-oval",
                 "repo": "WikiChat",
-                "stars": 1620,
+                "stars": 1621,
                 "topics": [
                   "chatbot",
                   "emnlp2023",
@@ -1344,7 +1344,7 @@
                 "open_issues": 5,
                 "owner": "ysymyth",
                 "repo": "ReAct",
-                "stars": 4211,
+                "stars": 4214,
                 "topics": [
                   "decision-making",
                   "large-language-models",
@@ -1504,7 +1504,7 @@
                 "open_issues": 262,
                 "owner": "chenfei-wu",
                 "repo": "TaskMatrix",
-                "stars": 33962,
+                "stars": 33957,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
@@ -1617,7 +1617,7 @@
                 "open_issues": 5,
                 "owner": "ysymyth",
                 "repo": "ReAct",
-                "stars": 4211,
+                "stars": 4214,
                 "topics": [
                   "decision-making",
                   "large-language-models",
@@ -1653,11 +1653,11 @@
                 "id": 552661142,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-09T11:22:31Z",
-                "open_issues": 638,
+                "last_commit": "2026-10-10T08:54:26Z",
+                "open_issues": 643,
                 "owner": "langchain-ai",
                 "repo": "langchain",
-                "stars": 147450,
+                "stars": 147553,
                 "topics": [
                   "agents",
                   "ai",
@@ -1699,7 +1699,7 @@
                 "open_issues": 0,
                 "owner": "zjunlp",
                 "repo": "EasyEdit",
-                "stars": 2927,
+                "stars": 2929,
                 "topics": [
                   "artificial-intelligence",
                   "baichuan",
@@ -1741,7 +1741,7 @@
                 "open_issues": 116,
                 "owner": "ContinualAI",
                 "repo": "avalanche",
-                "stars": 2103,
+                "stars": 2104,
                 "topics": [
                   "benchmarks",
                   "continual-learning",
@@ -1832,7 +1832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T13:30:14.892Z",
+    "last_updated": "2026-10-10T12:44:38.829Z",
     "original_repository_info": {
       "archived": false,
       "description": "EMNLP'23 survey: a curation of awesome papers and resources on refreshing large language models (LLMs) without expensive retraining.",
