@@ -237,7 +237,7 @@
                     "open_issues": 17,
                     "owner": "kmeng01",
                     "repo": "memit",
-                    "stars": 564,
+                    "stars": 565,
                     "topics": [
                       "editing",
                       "gpt",
@@ -284,7 +284,7 @@
                     "open_issues": 26,
                     "owner": "kmeng01",
                     "repo": "rome",
-                    "stars": 783,
+                    "stars": 784,
                     "topics": [
                       "gpt",
                       "interpretability",
@@ -521,7 +521,7 @@
                     "open_issues": 114,
                     "owner": "microsoft",
                     "repo": "LoRA",
-                    "stars": 13852,
+                    "stars": 13854,
                     "topics": [
                       "adaptation",
                       "deberta",
@@ -1227,11 +1227,11 @@
                 "id": 587050620,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-13T14:15:08Z",
-                "open_issues": 807,
+                "last_commit": "2026-10-13T23:13:27Z",
+                "open_issues": 809,
                 "owner": "stanfordnlp",
                 "repo": "dspy",
-                "stars": 38610,
+                "stars": 38633,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
@@ -1344,7 +1344,7 @@
                 "open_issues": 5,
                 "owner": "ysymyth",
                 "repo": "ReAct",
-                "stars": 4220,
+                "stars": 4222,
                 "topics": [
                   "decision-making",
                   "large-language-models",
@@ -1617,7 +1617,7 @@
                 "open_issues": 5,
                 "owner": "ysymyth",
                 "repo": "ReAct",
-                "stars": 4220,
+                "stars": 4222,
                 "topics": [
                   "decision-making",
                   "large-language-models",
@@ -1653,11 +1653,11 @@
                 "id": 552661142,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-13T13:31:01Z",
-                "open_issues": 641,
+                "last_commit": "2026-10-14T08:57:27Z",
+                "open_issues": 645,
                 "owner": "langchain-ai",
                 "repo": "langchain",
-                "stars": 147759,
+                "stars": 147838,
                 "topics": [
                   "agents",
                   "ai",
@@ -1832,7 +1832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T14:24:21.621Z",
+    "last_updated": "2026-10-14T12:08:14.575Z",
     "original_repository_info": {
       "archived": false,
       "description": "EMNLP'23 survey: a curation of awesome papers and resources on refreshing large language models (LLMs) without expensive retraining.",
