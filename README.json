@@ -521,7 +521,7 @@
                     "open_issues": 114,
                     "owner": "microsoft",
                     "repo": "LoRA",
-                    "stars": 13856,
+                    "stars": 13858,
                     "topics": [
                       "adaptation",
                       "deberta",
@@ -619,7 +619,7 @@
                     "open_issues": 125,
                     "owner": "google-research",
                     "repo": "language",
-                    "stars": 1816,
+                    "stars": 1817,
                     "topics": [
                       "machine-learning",
                       "natural-language-processing",
@@ -1227,11 +1227,11 @@
                 "id": 587050620,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-15T01:20:23Z",
-                "open_issues": 805,
+                "last_commit": "2026-10-15T21:46:24Z",
+                "open_issues": 804,
                 "owner": "stanfordnlp",
                 "repo": "dspy",
-                "stars": 38644,
+                "stars": 38654,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
@@ -1273,7 +1273,7 @@
                 "open_issues": 10,
                 "owner": "stanford-oval",
                 "repo": "WikiChat",
-                "stars": 1621,
+                "stars": 1622,
                 "topics": [
                   "chatbot",
                   "emnlp2023",
@@ -1344,7 +1344,7 @@
                 "open_issues": 5,
                 "owner": "ysymyth",
                 "repo": "ReAct",
-                "stars": 4223,
+                "stars": 4224,
                 "topics": [
                   "decision-making",
                   "large-language-models",
@@ -1617,7 +1617,7 @@
                 "open_issues": 5,
                 "owner": "ysymyth",
                 "repo": "ReAct",
-                "stars": 4223,
+                "stars": 4224,
                 "topics": [
                   "decision-making",
                   "large-language-models",
@@ -1653,11 +1653,11 @@
                 "id": 552661142,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-15T08:58:17Z",
-                "open_issues": 648,
+                "last_commit": "2026-10-16T08:38:01Z",
+                "open_issues": 651,
                 "owner": "langchain-ai",
                 "repo": "langchain",
-                "stars": 147861,
+                "stars": 147923,
                 "topics": [
                   "agents",
                   "ai",
@@ -1832,7 +1832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T11:44:49.819Z",
+    "last_updated": "2026-10-16T11:39:11.703Z",
     "original_repository_info": {
       "archived": false,
       "description": "EMNLP'23 survey: a curation of awesome papers and resources on refreshing large language models (LLMs) without expensive retraining.",
