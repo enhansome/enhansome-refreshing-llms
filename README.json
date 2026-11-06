@@ -284,7 +284,7 @@
                     "open_issues": 26,
                     "owner": "kmeng01",
                     "repo": "rome",
-                    "stars": 790,
+                    "stars": 791,
                     "topics": [
                       "gpt",
                       "interpretability",
@@ -521,7 +521,7 @@
                     "open_issues": 114,
                     "owner": "microsoft",
                     "repo": "LoRA",
-                    "stars": 13905,
+                    "stars": 13908,
                     "topics": [
                       "adaptation",
                       "deberta",
@@ -1227,11 +1227,11 @@
                 "id": 587050620,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-05T14:25:38Z",
-                "open_issues": 764,
+                "last_commit": "2026-11-06T14:23:03Z",
+                "open_issues": 766,
                 "owner": "stanfordnlp",
                 "repo": "dspy",
-                "stars": 38936,
+                "stars": 38962,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
@@ -1273,7 +1273,7 @@
                 "open_issues": 11,
                 "owner": "stanford-oval",
                 "repo": "WikiChat",
-                "stars": 1623,
+                "stars": 1624,
                 "topics": [
                   "chatbot",
                   "emnlp2023",
@@ -1504,7 +1504,7 @@
                 "open_issues": 262,
                 "owner": "chenfei-wu",
                 "repo": "TaskMatrix",
-                "stars": 33916,
+                "stars": 33911,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
@@ -1653,11 +1653,11 @@
                 "id": 552661142,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-05T14:31:43Z",
-                "open_issues": 715,
+                "last_commit": "2026-11-06T08:46:54Z",
+                "open_issues": 716,
                 "owner": "langchain-ai",
                 "repo": "langchain",
-                "stars": 149079,
+                "stars": 149122,
                 "topics": [
                   "agents",
                   "ai",
@@ -1699,7 +1699,7 @@
                 "open_issues": 1,
                 "owner": "zjunlp",
                 "repo": "EasyEdit",
-                "stars": 2937,
+                "stars": 2936,
                 "topics": [
                   "artificial-intelligence",
                   "baichuan",
@@ -1832,7 +1832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T14:48:28.266Z",
+    "last_updated": "2026-11-06T14:26:34.488Z",
     "original_repository_info": {
       "archived": false,
       "description": "EMNLP'23 survey: a curation of awesome papers and resources on refreshing large language models (LLMs) without expensive retraining.",
