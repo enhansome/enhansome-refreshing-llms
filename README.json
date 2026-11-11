@@ -359,30 +359,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "ModuleFormer",
-                  "description": "Arxiv ModuleFormer: Modularity Emerges from Mixture-of-Experts",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "ModuleFormer is a MoE-based architecture that includes two different types of experts: stick-breaking attention heads and feedforward experts. We released a collection of ModuleFormer-based Language Models (MoLM) ranging in scale from 4 billion to 8 billion parameters.",
-                    "homepage": null,
-                    "id": 682660919,
-                    "language": "Python",
-                    "license": "Apache-2.0",
-                    "last_commit": "2025-09-18T00:30:52Z",
-                    "open_issues": 5,
-                    "owner": "IBM",
-                    "repo": "ModuleFormer",
-                    "stars": 223,
-                    "topics": [
-                      "lm",
-                      "moe"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T18:50:58.381Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "ContinualLM",
                   "description": "ICLR Continual Pre-training of Language Models",
                   "children": [],
@@ -521,7 +497,7 @@
                     "open_issues": 114,
                     "owner": "microsoft",
                     "repo": "LoRA",
-                    "stars": 13913,
+                    "stars": 13915,
                     "topics": [
                       "adaptation",
                       "deberta",
@@ -619,7 +595,7 @@
                     "open_issues": 127,
                     "owner": "google-research",
                     "repo": "language",
-                    "stars": 1824,
+                    "stars": 1825,
                     "topics": [
                       "machine-learning",
                       "natural-language-processing",
@@ -1210,7 +1186,7 @@
                 "open_issues": 17,
                 "owner": "jzbjyb",
                 "repo": "FLARE",
-                "stars": 670,
+                "stars": 669,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
@@ -1227,11 +1203,11 @@
                 "id": 587050620,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-10T13:13:15Z",
-                "open_issues": 772,
+                "last_commit": "2026-11-11T14:25:48Z",
+                "open_issues": 777,
                 "owner": "stanfordnlp",
                 "repo": "dspy",
-                "stars": 38994,
+                "stars": 39011,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
@@ -1344,7 +1320,7 @@
                 "open_issues": 5,
                 "owner": "ysymyth",
                 "repo": "ReAct",
-                "stars": 4278,
+                "stars": 4275,
                 "topics": [
                   "decision-making",
                   "large-language-models",
@@ -1504,7 +1480,7 @@
                 "open_issues": 262,
                 "owner": "chenfei-wu",
                 "repo": "TaskMatrix",
-                "stars": 33896,
+                "stars": 33895,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
@@ -1546,7 +1522,7 @@
                 "open_issues": 17,
                 "owner": "jzbjyb",
                 "repo": "FLARE",
-                "stars": 670,
+                "stars": 669,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
@@ -1617,7 +1593,7 @@
                 "open_issues": 5,
                 "owner": "ysymyth",
                 "repo": "ReAct",
-                "stars": 4278,
+                "stars": 4275,
                 "topics": [
                   "decision-making",
                   "large-language-models",
@@ -1653,11 +1629,11 @@
                 "id": 552661142,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-10T08:28:09Z",
-                "open_issues": 739,
+                "last_commit": "2026-11-11T14:20:36Z",
+                "open_issues": 732,
                 "owner": "langchain-ai",
                 "repo": "langchain",
-                "stars": 149305,
+                "stars": 149353,
                 "topics": [
                   "agents",
                   "ai",
@@ -1696,7 +1672,7 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-11-07T06:22:27Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "zjunlp",
                 "repo": "EasyEdit",
                 "stars": 2938,
@@ -1741,7 +1717,7 @@
                 "open_issues": 117,
                 "owner": "ContinualAI",
                 "repo": "avalanche",
-                "stars": 2116,
+                "stars": 2117,
                 "topics": [
                   "benchmarks",
                   "continual-learning",
@@ -1832,7 +1808,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T15:03:20.382Z",
+    "last_updated": "2026-11-11T14:34:55.809Z",
     "original_repository_info": {
       "archived": false,
       "description": "EMNLP'23 survey: a curation of awesome papers and resources on refreshing large language models (LLMs) without expensive retraining.",
