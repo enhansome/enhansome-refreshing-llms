@@ -1204,10 +1204,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-13T14:13:09Z",
-                "open_issues": 782,
+                "open_issues": 783,
                 "owner": "stanfordnlp",
                 "repo": "dspy",
-                "stars": 39048,
+                "stars": 39073,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
@@ -1320,7 +1320,7 @@
                 "open_issues": 5,
                 "owner": "ysymyth",
                 "repo": "ReAct",
-                "stars": 4278,
+                "stars": 4279,
                 "topics": [
                   "decision-making",
                   "large-language-models",
@@ -1480,7 +1480,7 @@
                 "open_issues": 262,
                 "owner": "chenfei-wu",
                 "repo": "TaskMatrix",
-                "stars": 33895,
+                "stars": 33894,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
@@ -1593,7 +1593,7 @@
                 "open_issues": 5,
                 "owner": "ysymyth",
                 "repo": "ReAct",
-                "stars": 4278,
+                "stars": 4279,
                 "topics": [
                   "decision-making",
                   "large-language-models",
@@ -1629,11 +1629,11 @@
                 "id": 552661142,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-14T08:44:18Z",
-                "open_issues": 741,
+                "last_commit": "2026-11-15T09:02:02Z",
+                "open_issues": 743,
                 "owner": "langchain-ai",
                 "repo": "langchain",
-                "stars": 149495,
+                "stars": 149549,
                 "topics": [
                   "agents",
                   "ai",
@@ -1675,7 +1675,7 @@
                 "open_issues": 1,
                 "owner": "zjunlp",
                 "repo": "EasyEdit",
-                "stars": 2941,
+                "stars": 2942,
                 "topics": [
                   "artificial-intelligence",
                   "baichuan",
@@ -1808,7 +1808,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T13:40:47.015Z",
+    "last_updated": "2026-11-15T14:07:46.023Z",
     "original_repository_info": {
       "archived": false,
       "description": "EMNLP'23 survey: a curation of awesome papers and resources on refreshing large language models (LLMs) without expensive retraining.",
