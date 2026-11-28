@@ -373,7 +373,7 @@
                     "open_issues": 4,
                     "owner": "UIC-Liu-Lab",
                     "repo": "ContinualLM",
-                    "stars": 296,
+                    "stars": 297,
                     "topics": [
                       "catastrophic-forgetting",
                       "continual-learning",
@@ -497,7 +497,7 @@
                     "open_issues": 115,
                     "owner": "microsoft",
                     "repo": "LoRA",
-                    "stars": 13945,
+                    "stars": 13947,
                     "topics": [
                       "adaptation",
                       "deberta",
@@ -1204,10 +1204,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-25T14:14:31Z",
-                "open_issues": 854,
+                "open_issues": 859,
                 "owner": "stanfordnlp",
                 "repo": "dspy",
-                "stars": 39260,
+                "stars": 39282,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
@@ -1228,7 +1228,7 @@
                 "open_issues": 55,
                 "owner": "microsoft",
                 "repo": "ProphetNet",
-                "stars": 745,
+                "stars": 744,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
@@ -1249,7 +1249,7 @@
                 "open_issues": 11,
                 "owner": "stanford-oval",
                 "repo": "WikiChat",
-                "stars": 1630,
+                "stars": 1632,
                 "topics": [
                   "chatbot",
                   "emnlp2023",
@@ -1480,7 +1480,7 @@
                 "open_issues": 262,
                 "owner": "chenfei-wu",
                 "repo": "TaskMatrix",
-                "stars": 33883,
+                "stars": 33881,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
@@ -1572,7 +1572,7 @@
                 "open_issues": 55,
                 "owner": "microsoft",
                 "repo": "ProphetNet",
-                "stars": 745,
+                "stars": 744,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:50:58.381Z"
@@ -1629,11 +1629,11 @@
                 "id": 552661142,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-27T08:21:12Z",
-                "open_issues": 786,
+                "last_commit": "2026-11-28T08:17:36Z",
+                "open_issues": 788,
                 "owner": "langchain-ai",
                 "repo": "langchain",
-                "stars": 150077,
+                "stars": 150099,
                 "topics": [
                   "agents",
                   "ai",
@@ -1675,7 +1675,7 @@
                 "open_issues": 2,
                 "owner": "zjunlp",
                 "repo": "EasyEdit",
-                "stars": 2947,
+                "stars": 2946,
                 "topics": [
                   "artificial-intelligence",
                   "baichuan",
@@ -1717,7 +1717,7 @@
                 "open_issues": 118,
                 "owner": "ContinualAI",
                 "repo": "avalanche",
-                "stars": 2120,
+                "stars": 2121,
                 "topics": [
                   "benchmarks",
                   "continual-learning",
@@ -1808,7 +1808,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T16:50:31.896Z",
+    "last_updated": "2026-11-28T15:41:56.012Z",
     "original_repository_info": {
       "archived": false,
       "description": "EMNLP'23 survey: a curation of awesome papers and resources on refreshing large language models (LLMs) without expensive retraining.",
